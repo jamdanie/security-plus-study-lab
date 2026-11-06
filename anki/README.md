@@ -1,0 +1,16 @@
+# Anki cards
+
+The first set contains original questions about the hashing exercise. Each card includes all choices on the front, a reasoning cue, the correct answer, and an explanation of each choice on the back.
+
+## Import the cards
+
+1. Open [hashing.txt](hashing.txt) on GitHub and use Download raw file to save it.
+2. In Anki desktop, choose File > Import and select the saved file.
+3. Choose the Basic note type and a deck of your choice.
+4. Use Tab as the field separator. Map column 1 to Front, column 2 to Back, and column 3 to Tags.
+5. Enable Allow HTML in fields so the line breaks display correctly.
+6. Check the preview before importing. It should show three notes.
+
+These cards are separate from private textbook review decks. Please contribute original questions or material you have permission to share.
+
+[Anki text import documentation](https://docs.ankiweb.net/importing/text-files.html)
