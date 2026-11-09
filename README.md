@@ -15,6 +15,15 @@ The first topic is file hashing:
 
 The walkthrough is ready to try. I haven't recorded my results yet.
 
+## More to try
+
+- [Identity and access guide](study-guides/identity-and-access.md): authentication, authorization, roles, and least privilege.
+- [Access-review exercise](labs/02-access-review/README.md): review a fictional group's permissions and explain your decisions.
+- [Python hash-checker exercise](labs/03-python-hash-checker/README.md): calculate a file hash, compare a reference, and inspect exit codes.
+- [Script tests](tests/test_hash_file.py): seven automated checks covering known hashes and failure cases.
+
+These exercises are ready to try. Personal completion notes have not been recorded. The Python tool's seven automated tests passed during development; that is separate from completing the exercises.
+
 ## What's in the repository
 
 | Folder | Purpose |
@@ -22,7 +31,7 @@ The walkthrough is ready to try. I haven't recorded my results yet.
 | [study-guides](study-guides/hashing.md) | Explanations connected to practical examples |
 | [labs](labs/01-file-hashing/README.md) | Steps, expected results, and troubleshooting |
 | [anki](anki/README.md) | Original cards and import instructions |
-| [scripts](scripts/README.md) | Notes about commands and future standalone tools |
+| [scripts](scripts/README.md) | A Python hash checker and command documentation |
 | [resources](resources/README.md) | Textbook credit and supporting documentation |
 
 ## What comes next
@@ -32,7 +41,7 @@ The walkthrough is ready to try. I haven't recorded my results yet.
 - Add more topics as I study them.
 - Add automated checks and an exercise using an application programming interface (API) when there is a useful reason for each.
 
-This is a work in progress, not a complete exam guide. The website, automated checks, and connected services haven't been built yet.
+This is a work in progress, not a complete exam guide. The website, automated GitHub workflow, and connected services haven't been built yet. Script tests can be run locally.
 
 ## Textbook and sources
 
