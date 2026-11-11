@@ -1,0 +1,9 @@
+# FICTIONAL TRAINING DATA. Times use UTC. Source labels are not real addresses.
+2026-01-15T09:00:00Z event=login user=avery source=guest-device-1 result=failure
+2026-01-15T09:00:10Z event=login user=morgan source=guest-device-1 result=failure
+2026-01-15T09:00:20Z event=login user=riley source=guest-device-1 result=failure
+2026-01-15T09:00:30Z event=login user=casey source=guest-device-1 result=failure
+2026-01-15T09:01:00Z event=login user=morgan source=guest-device-1 result=success
+2026-01-15T09:01:15Z event=authorization user=morgan source=guest-device-1 resource=answer-guide action=read result=denied
+2026-01-15T09:05:00Z event=login user=avery source=staff-device-2 result=failure
+2026-01-15T09:05:25Z event=login user=avery source=staff-device-2 result=success
