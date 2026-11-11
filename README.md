@@ -27,6 +27,8 @@ These exercises are ready to try. Personal completion notes have not been record
 - [Network segmentation guide](study-guides/network-segmentation.md): VLAN boundaries, access control lists, and default deny.
 - [Firewall rule-review exercise](labs/04-firewall-rule-review/README.md): identify a broad permit that defeats a guest-access restriction, repair it, and retest four requests.
 
+- [Sign-in log review](labs/05-sign-in-log-review/README.md): investigate fictional login events, distinguish authentication from authorization, and separate evidence from assumptions.
+
 ## What's in the repository
 
 | Folder | Purpose |
