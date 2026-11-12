@@ -2,6 +2,10 @@
 
 This review describes an uploaded Anki export without publishing its questions, answers, or media.
 
+## Scope
+
+The review focuses on Security+ material. Cisco-tagged notes are outside this project's study scope and will be left aside. The full export remains a personal study source; the repository contains original public cards, not an uploaded copy of the class deck.
+
 ## What the export contains
 
 | Check | Result |
@@ -16,7 +20,7 @@ This review describes an uploaded Anki export without publishing its questions, 
 | Packaged media files | 4 |
 | Empty first fields | 0 |
 
-SRWE means Switching, Routing, and Wireless Essentials. The Cisco-tagged material should be reviewed separately from Security+ material.
+SRWE means Switching, Routing, and Wireless Essentials. The Cisco-tagged material is outside this Security+ review.
 
 A comparison of first fields after removing HTML tags found one repeated front beyond its first occurrence. This is a duplicate candidate, not proof that both notes are interchangeable; compare their backs, tags, and note types before merging.
 
@@ -28,7 +32,7 @@ Sampled cards also contain textbook or class-question wording. The full package 
 
 ## Cleanup priorities
 
-1. Separate the 46 Cisco-tagged notes into a networking collection or clearly separate subdeck after checking the tags.
+1. Leave the 46 Cisco-tagged notes outside this Security+ review; no deck reorganization has been performed.
 2. Review the one non-Basic note before any bulk field conversion. Its fields differ from Front and Back.
 3. Review the repeated-front candidate without deleting either note automatically.
 4. Check that image-dependent questions remain understandable when exported with their media.
