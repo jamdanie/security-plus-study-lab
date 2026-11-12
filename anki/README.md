@@ -15,6 +15,10 @@ The sets contain original questions about hashing, identity and access, and netw
 
 For class or textbook decks, read [Using your existing decks](using-your-existing-decks.md) before adding files publicly.
 
+- [Secure baselines](secure-baselines.txt): three cards about drift, exceptions, and approved references.
+
+The [existing deck review](deck-review.md) focuses on Security+; Cisco-tagged material is left aside.
+
 ## Import the cards
 
 1. Open a card file above on GitHub and use Download raw file to save it.
