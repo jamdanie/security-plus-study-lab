@@ -11,6 +11,10 @@ The sets contain original questions about hashing, identity and access, and netw
 
 - [Sign-in log review](sign-in-log-review.txt): three cards about evidence, permissions, and safe logging.
 
+- [Cryptography choices](cryptography-choices.txt): three cards about algorithms, signatures, and trusted keys.
+
+For class or textbook decks, read [Using your existing decks](using-your-existing-decks.md) before adding files publicly.
+
 ## Import the cards
 
 1. Open a card file above on GitHub and use Download raw file to save it.
