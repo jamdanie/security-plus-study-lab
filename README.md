@@ -29,6 +29,9 @@ These exercises are ready to try. Personal completion notes have not been record
 
 - [Sign-in log review](labs/05-sign-in-log-review/README.md): investigate fictional login events, distinguish authentication from authorization, and separate evidence from assumptions.
 
+- [Cryptography choices](study-guides/cryptography-choices.md) and [scenario exercise](labs/06-choose-cryptographic-controls/README.md): distinguish hashing, encryption, and digital signatures.
+- [Using existing Anki decks](anki/using-your-existing-decks.md): export, review, and identify material suitable for public sharing.
+
 ## What's in the repository
 
 | Folder | Purpose |
