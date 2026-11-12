@@ -32,6 +32,9 @@ These exercises are ready to try. Personal completion notes have not been record
 - [Cryptography choices](study-guides/cryptography-choices.md) and [scenario exercise](labs/06-choose-cryptographic-controls/README.md): distinguish hashing, encryption, and digital signatures.
 - [Using existing Anki decks](anki/using-your-existing-decks.md): export, review, and identify material suitable for public sharing.
 
+- [Secure baselines guide](study-guides/secure-baselines.md) and [configuration-drift exercise](labs/07-configuration-drift/README.md): compare settings, review exceptions, and explain corrections.
+- [Security+ deck review](anki/deck-review.md): inventory and cleanup priorities for the existing personal study collection. Cisco material is outside this review's scope.
+
 ## What's in the repository
 
 | Folder | Purpose |
