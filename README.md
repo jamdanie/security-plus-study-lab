@@ -1,60 +1,38 @@
 # Security+ study lab
 
-I'm building this project while studying for CompTIA Security+. It brings together study notes, Anki cards, walkthroughs, and exercises so I can practice what I'm learning and make it easier for someone else to get started.
+I'm building this project while studying for CompTIA Security+. It brings together explanations, Anki cards, walkthroughs, and exercises so I can practice what I'm learning and help others work through the same topics.
 
-The goal is to connect an explanation to something you can actually try. Each topic can include a guide, an exercise, review cards, and notes about what happened when I worked through it. Completed work and exercises that are ready to try will be labeled separately.
+## Where do you want to start?
 
-## Start here
-
-The first topic is file hashing:
-
-1. Read [Hashing: checking whether a file changed](study-guides/hashing.md).
-2. Try the [Windows PowerShell walkthrough](labs/01-file-hashing/README.md).
-3. Review the [original Anki cards](anki/README.md).
-4. Record your results and explain what the comparisons tell you.
-
-The walkthrough is ready to try. I haven't recorded my results yet.
-
-## More to try
-
-- [Identity and access guide](study-guides/identity-and-access.md): authentication, authorization, roles, and least privilege.
-- [Access-review exercise](labs/02-access-review/README.md): review a fictional group's permissions and explain your decisions.
-- [Python hash-checker exercise](labs/03-python-hash-checker/README.md): calculate a file hash, compare a reference, and inspect exit codes.
-- [Script tests](tests/test_hash_file.py): seven automated checks covering known hashes and failure cases.
-
-These exercises are ready to try. Personal completion notes have not been recorded. The Python tool's seven automated tests passed during development; that is separate from completing the exercises.
-
-- [Network segmentation guide](study-guides/network-segmentation.md): VLAN boundaries, access control lists, and default deny.
-- [Firewall rule-review exercise](labs/04-firewall-rule-review/README.md): identify a broad permit that defeats a guest-access restriction, repair it, and retest four requests.
-
-- [Sign-in log review](labs/05-sign-in-log-review/README.md): investigate fictional login events, distinguish authentication from authorization, and separate evidence from assumptions.
-
-- [Cryptography choices](study-guides/cryptography-choices.md) and [scenario exercise](labs/06-choose-cryptographic-controls/README.md): distinguish hashing, encryption, and digital signatures.
-- [Using existing Anki decks](anki/using-your-existing-decks.md): export, review, and identify material suitable for public sharing.
-
-- [Secure baselines guide](study-guides/secure-baselines.md) and [configuration-drift exercise](labs/07-configuration-drift/README.md): compare settings, review exceptions, and explain corrections.
-- [Security+ deck review](anki/deck-review.md): inventory and cleanup priorities for the existing personal study collection. Cisco material is outside this review's scope.
-
-- [Backup and recovery guide](study-guides/backup-and-recovery.md) and [recovery-objectives exercise](labs/08-recovery-objectives/README.md): distinguish recovery point from recovery time and evaluate failed backups.
-
-## What's in the repository
-
-| Folder | Purpose |
+| Goal | Start here |
 |---|---|
-| [study-guides](study-guides/hashing.md) | Explanations connected to practical examples |
-| [labs](labs/01-file-hashing/README.md) | Steps, expected results, and troubleshooting |
-| [anki](anki/README.md) | Original cards and import instructions |
-| [scripts](scripts/README.md) | A Python hash checker and command documentation |
-| [resources](resources/README.md) | Textbook credit and supporting documentation |
+| Work on a weak section | [Study by topic](study/README.md) |
+| Find what needs review | [Mixed practice test 1: 14 questions](practice-tests/mixed-01.md) |
+| Check answers and choose a section | [Explained answers and review links](practice-tests/mixed-01-answers.md) |
+| Review with flashcards | [Anki sets and import instructions](anki/README.md) |
+| Use existing class cards as a study source | [Security+ deck review](anki/deck-review.md) |
 
-## What comes next
+## Study sections
 
-- Run the first exercise and document the results.
-- Confirm the target exam version and map topics to its objectives.
-- Add more topics as I study them.
-- Add automated checks and an exercise using an application programming interface (API) when there is a useful reason for each.
+- [Cryptography](study-guides/cryptography-choices.md)
+- [Identity and access](study-guides/identity-and-access.md)
+- [Network segmentation and firewall rules](study-guides/network-segmentation.md)
+- [Security monitoring and sign-in logs](labs/05-sign-in-log-review/README.md)
+- [Secure baselines and configuration drift](study-guides/secure-baselines.md)
+- [Backup and recovery](study-guides/backup-and-recovery.md)
+- [Phishing and message verification](study-guides/phishing.md)
 
-This is a work in progress, not a complete exam guide. The website, automated GitHub workflow, and connected services haven't been built yet. Script tests can be run locally.
+Each section connects explanation to practice. Start with the [topic index](study/README.md) for the exercise and card links.
+
+## Hands-on tools
+
+The [PowerShell file-hashing walkthrough](labs/01-file-hashing/README.md) and [Python hash-checker exercise](labs/03-python-hash-checker/README.md) let you compare file contents with a reference. The [Python tool](scripts/hash_file.py) includes [seven automated tests](tests/test_hash_file.py), which passed during development.
+
+## Project status
+
+Exercises are ready to try; personal completion results have not been recorded. Public practice questions are original. The short test covers this repository's available topics, not the full certification blueprint, and its score does not predict exam readiness.
+
+The target exam version and objective mapping have not been confirmed. Dedicated coverage of governance, risk, vulnerability management, wireless security, cloud security, and broader incident response remains to be built. The website, automated GitHub workflow, and connected services are not implemented.
 
 ## Textbook and sources
 
