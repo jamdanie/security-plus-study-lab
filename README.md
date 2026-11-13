@@ -6,6 +6,7 @@ I'm building this project while studying for CompTIA Security+. It brings togeth
 
 | Goal | Start here |
 |---|---|
+| See exam weights and objective connections | [SY0-701 alignment](study/exam-alignment.md) |
 | Work on a weak section | [Study by topic](study/README.md) |
 | Find what needs review | [Mixed practice test 1: 14 questions](practice-tests/mixed-01.md) |
 | Check answers and choose a section | [Explained answers and review links](practice-tests/mixed-01-answers.md) |
@@ -31,6 +32,8 @@ Each section connects explanation to practice. Start with the [topic index](stud
 - [Incident response](study-guides/incident-response.md): containment, recovery, and evidence handling.
 - [Practice set 2](practice-tests/foundations-02.md): nine original questions with explanations and section links.
 
+- [Mapped scenario drill 3](practice-tests/mapped-scenarios-03.md): six original questions connecting requirements, decisions, and objective IDs.
+
 ## Hands-on tools
 
 The [PowerShell file-hashing walkthrough](labs/01-file-hashing/README.md) and [Python hash-checker exercise](labs/03-python-hash-checker/README.md) let you compare file contents with a reference. The [Python tool](scripts/hash_file.py) includes [seven automated tests](tests/test_hash_file.py), which passed during development.
@@ -39,7 +42,7 @@ The [PowerShell file-hashing walkthrough](labs/01-file-hashing/README.md) and [P
 
 Exercises are ready to try; personal completion results have not been recorded. Public practice questions are original. The short test covers this repository's available topics, not the full certification blueprint, and its score does not predict exam readiness.
 
-The target exam version and objective mapping have not been confirmed. Introductory risk, vulnerability management, and incident response guides are available. Governance, wireless security, cloud security, and deeper coverage across topics remain to be built. The website, automated GitHub workflow, and connected services are not implemented.
+An initial partial mapping to SY0-701 objectives version 5.0 is available in the [exam-alignment guide](study/exam-alignment.md). Your registered exam code has not been confirmed. Introductory risk, vulnerability management, and incident response guides are available. Governance, wireless security, cloud security, and deeper coverage across topics remain to be built. The website, automated GitHub workflow, and connected services are not implemented.
 
 ## Textbook and sources
 
