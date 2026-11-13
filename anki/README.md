@@ -19,6 +19,8 @@ For class or textbook decks, read [Using your existing decks](using-your-existin
 
 The [existing deck review](deck-review.md) focuses on Security+; Cisco-tagged material is left aside.
 
+- [Backup and recovery](backup-and-recovery.txt): three cards about recovery objectives and restore testing.
+
 ## Import the cards
 
 1. Open a card file above on GitHub and use Download raw file to save it.
