@@ -1,5 +1,31 @@
 # Hashing, encryption, and signatures: choose the job first
 
+## Start with the problem
+
+Ask: "Do I need to keep this secret, check its contents, or verify a signer?"
+
+A medical office sends a private report. Encryption addresses the need to keep its contents unreadable to unauthorized people. If the recipient also needs to verify the sender's signature, that is another requirement. The two protections can be combined.
+
+For a software download, a hash comparison answers a narrower question: do these bytes match the trusted reference? It does not tell you whether the software is safe.
+
+## Worked decision
+
+A public update must remain readable to everyone. Readers need evidence that its signed contents came from the expected publisher's key.
+
+1. The content is public, so secrecy is not the requested outcome.
+2. A plain hash can compare bytes but does not establish the publisher.
+3. A digital signature fits the integrity and origin requirement.
+4. Readers still need a trusted binding between the verification key and the publisher.
+
+Change the requirement to private delivery, and encryption becomes relevant. Choose from the requirement, not from a single keyword.
+
+## Ready to move on?
+
+Without looking, explain why a valid signature does not hide a document and why a hash from an untrusted source is not independent proof. Then try the [stronger scenario questions](../practice-tests/applied-review-04.md).
+
+Objective connection: partial preparation for SY0-701 1.2 and 1.4. [See mapping and remaining gaps](../study/exam-alignment.md).
+
+
 Start with what you need to protect. A file can be unreadable to outsiders, checked for changes, or signed by a particular key. Those are different goals.
 
 | Need | Mechanism | What to remember |
