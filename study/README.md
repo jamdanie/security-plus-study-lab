@@ -2,7 +2,7 @@
 
 Start with a weak topic or take the [14-question mixed practice test](../practice-tests/mixed-01.md). Use the answer key to find the section to revisit.
 
-This is a topic-based study index, not a verified exam-objective map. Textbook modules and certification objectives use different numbering. Areas without guides are still gaps; this is not a complete course. All public practice questions are original.
+Use the [SY0-701 exam-alignment guide](exam-alignment.md) for official domain weights and this project's partial objective mapping. Your registered exam code still needs confirmation. Textbook modules and certification objectives use different numbering. Areas without guides are still gaps; this is not a complete course. All public practice questions are original.
 
 | Section | What to work on | Read | Practice | Cards |
 |---|---|---|---|---|
@@ -21,6 +21,10 @@ This is a topic-based study index, not a verified exam-objective map. Textbook m
 | Risk management | Responses, residual risk, loss calculations | [Guide](../study-guides/risk-management.md) | [Questions 1–3](../practice-tests/foundations-02.md) |
 | Vulnerability management | Validation, priority, remediation | [Guide](../study-guides/vulnerability-management.md) | [Questions 4–6](../practice-tests/foundations-02.md) |
 | Incident response | Containment, recovery, evidence | [Guide](../study-guides/incident-response.md) | [Questions 7–9](../practice-tests/foundations-02.md) |
+
+## Practice the objective connection
+
+[Mapped scenario drill 3](../practice-tests/mapped-scenarios-03.md) asks you to name the requirement behind each answer. See the [coverage map](exam-alignment.md) for gaps and question-level alignments.
 
 ## Use a weak section
 
