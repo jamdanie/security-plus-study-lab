@@ -34,6 +34,9 @@ Each section connects explanation to practice. Start with the [topic index](stud
 
 - [Mapped scenario drill 3](practice-tests/mapped-scenarios-03.md): six original questions connecting requirements, decisions, and objective IDs.
 
+- [Applied review 4](practice-tests/applied-review-04.md): six scenarios with plausible alternatives and worked-example links.
+- [Study methods and resource reports](resources/study-methods.md): a repeatable review loop and clearly labeled candidate anecdotes.
+
 ## Hands-on tools
 
 The [PowerShell file-hashing walkthrough](labs/01-file-hashing/README.md) and [Python hash-checker exercise](labs/03-python-hash-checker/README.md) let you compare file contents with a reference. The [Python tool](scripts/hash_file.py) includes [seven automated tests](tests/test_hash_file.py), which passed during development.
