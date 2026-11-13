@@ -14,6 +14,14 @@ This is a topic-based study index, not a verified exam-objective map. Textbook m
 | Recovery | Recovery point, recovery time, restore tests | [Guide](../study-guides/backup-and-recovery.md) | [Exercise](../labs/08-recovery-objectives/README.md) | [Anki](../anki/backup-and-recovery.txt) |
 | Social engineering | Urgency, independent verification, reporting | [Guide](../study-guides/phishing.md) | [Exercise](../labs/09-message-triage/README.md) | Not added yet |
 
+## Additional sections
+
+| Section | Focus | Read | Practice |
+|---|---|---|---|
+| Risk management | Responses, residual risk, loss calculations | [Guide](../study-guides/risk-management.md) | [Questions 1–3](../practice-tests/foundations-02.md) |
+| Vulnerability management | Validation, priority, remediation | [Guide](../study-guides/vulnerability-management.md) | [Questions 4–6](../practice-tests/foundations-02.md) |
+| Incident response | Containment, recovery, evidence | [Guide](../study-guides/incident-response.md) | [Questions 7–9](../practice-tests/foundations-02.md) |
+
 ## Use a weak section
 
 Read its explanation, do the exercise before opening its answer, then explain the result in your own words. Review related cards afterward. Mark guesses as review items even if they were correct.
@@ -22,4 +30,4 @@ For hashing, there are also [PowerShell](../labs/01-file-hashing/README.md) and 
 
 ## Coverage still to build
 
-Risk management and governance, vulnerability management, wireless security, cloud security, and broader incident response need dedicated material. Available questions cover only the sections listed above.
+Governance, wireless security, cloud security, and deeper incident-response exercises need dedicated material. The new risk, vulnerability, and response sections are introductory. Available questions cover only the sections listed above.
