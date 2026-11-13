@@ -26,6 +26,10 @@ Use the [SY0-701 exam-alignment guide](exam-alignment.md) for official domain we
 
 [Mapped scenario drill 3](../practice-tests/mapped-scenarios-03.md) asks you to name the requirement behind each answer. See the [coverage map](exam-alignment.md) for gaps and question-level alignments.
 
+## Cloud responsibility
+
+[Read the guide](../study-guides/cloud-responsibility.md), assign duties in the [exercise](../labs/10-cloud-responsibility/README.md), and try [four practice questions](../practice-tests/cloud-05.md). Partial SY0-701 3.1 coverage; this does not complete cloud security or Domain 3.
+
 ## Use a weak section
 
 Read its explanation, do the exercise before opening its answer, then explain the result in your own words. Review related cards afterward. Mark guesses as review items even if they were correct.
