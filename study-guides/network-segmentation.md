@@ -1,5 +1,40 @@
 # Network segmentation: separate devices, then control the connections
 
+## Start with the traffic requirement
+
+Ask: "Which source should reach which destination, using which service?"
+
+A guest network and a staff network can be separate VLANs while routing still permits traffic between them. VLAN means virtual local area network. The security decision depends on the enforced traffic policy too.
+
+## Worked decision
+
+A server accepts staff HTTPS connections. Guests must not reach it. HTTPS means Hypertext Transfer Protocol Secure; this example uses Transmission Control Protocol (TCP) destination port 443.
+
+Assume first-match processing for new connections:
+
+| Order | Source | Destination | Service | Decision |
+|---|---|---|---|---|
+| 1 | Any | Application server | TCP 443 | Permit |
+| 2 | Guest network | Application server | Any | Deny |
+| 3 | Any | Any | Any | Deny |
+
+A guest's TCP 443 request matches rule 1, so rule 2 never decides that request. Restrict rule 1's source to the staff network, then retest both allowed and prohibited traffic.
+
+Moving the guest deny above the broad permit blocks guests, but still allows every other source through that broad permit. If only staff should be allowed, narrowing the source directly matches the requirement.
+
+## Avoid the shortcut
+
+A rule that allows too much is not repaired by renaming a VLAN. A firewall also does not automatically encrypt traffic. Choose the mechanism that enforces the actual boundary.
+
+Rule behavior depends on the platform. These examples deliberately state first-match evaluation; do not assume every product behaves identically.
+
+## Ready to move on?
+
+Trace one permitted request and one denied request through every relevant rule. Explain why an "allow HTTPS" rule can still violate an access requirement. Try the [applied questions](../practice-tests/applied-review-04.md).
+
+Objective connection: partial preparation for SY0-701 2.5, 3.2, and 4.5. [Coverage map](../study/exam-alignment.md).
+
+
 A virtual local area network (VLAN) creates a separate Layer 2 broadcast domain. Devices in different VLANs generally need a Layer 3 device to communicate. That could be a router or a multilayer switch.
 
 The security question is what traffic that device permits. Creating two VLANs does not automatically define a restrictive policy between them. If routing permits broad communication, devices can still reach services across the boundary.
