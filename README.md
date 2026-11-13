@@ -35,6 +35,8 @@ These exercises are ready to try. Personal completion notes have not been record
 - [Secure baselines guide](study-guides/secure-baselines.md) and [configuration-drift exercise](labs/07-configuration-drift/README.md): compare settings, review exceptions, and explain corrections.
 - [Security+ deck review](anki/deck-review.md): inventory and cleanup priorities for the existing personal study collection. Cisco material is outside this review's scope.
 
+- [Backup and recovery guide](study-guides/backup-and-recovery.md) and [recovery-objectives exercise](labs/08-recovery-objectives/README.md): distinguish recovery point from recovery time and evaluate failed backups.
+
 ## What's in the repository
 
 | Folder | Purpose |
