@@ -39,6 +39,8 @@ Each section connects explanation to practice. Start with the [topic index](stud
 
 - [Cloud shared responsibility](study-guides/cloud-responsibility.md): worked examples, an [offline exercise](labs/10-cloud-responsibility/README.md), and [four original questions](practice-tests/cloud-05.md).
 
+- [Security governance](study-guides/security-governance.md): document selection, approval boundaries, an [exercise](labs/11-governance-documents/README.md), and [four original questions](practice-tests/governance-06.md).
+
 ## Hands-on tools
 
 The [PowerShell file-hashing walkthrough](labs/01-file-hashing/README.md) and [Python hash-checker exercise](labs/03-python-hash-checker/README.md) let you compare file contents with a reference. The [Python tool](scripts/hash_file.py) includes [seven automated tests](tests/test_hash_file.py), which passed during development.
