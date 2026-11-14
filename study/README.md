@@ -30,6 +30,10 @@ Use the [SY0-701 exam-alignment guide](exam-alignment.md) for official domain we
 
 [Read the guide](../study-guides/cloud-responsibility.md), assign duties in the [exercise](../labs/10-cloud-responsibility/README.md), and try [four practice questions](../practice-tests/cloud-05.md). Partial SY0-701 3.1 coverage; this does not complete cloud security or Domain 3.
 
+## Governance documents
+
+[Read the guide](../study-guides/security-governance.md), choose the missing document in the [exercise](../labs/11-governance-documents/README.md), then try [four questions](../practice-tests/governance-06.md). Partial SY0-701 5.1 coverage. Supplier reviews, legal requirements, and audits still need deeper material.
+
 ## Use a weak section
 
 Read its explanation, do the exercise before opening its answer, then explain the result in your own words. Review related cards afterward. Mark guesses as review items even if they were correct.
