@@ -41,6 +41,8 @@ Each section connects explanation to practice. Start with the [topic index](stud
 
 - [Security governance](study-guides/security-governance.md): document selection, approval boundaries, an [exercise](labs/11-governance-documents/README.md), and [four original questions](practice-tests/governance-06.md).
 
+- [Security control selection](study-guides/security-controls.md): distinguish implementation from purpose, try an [exercise](labs/12-control-selection/README.md), and answer [five questions](practice-tests/controls-07.md).
+
 ## Hands-on tools
 
 The [PowerShell file-hashing walkthrough](labs/01-file-hashing/README.md) and [Python hash-checker exercise](labs/03-python-hash-checker/README.md) let you compare file contents with a reference. The [Python tool](scripts/hash_file.py) includes [seven automated tests](tests/test_hash_file.py), which passed during development.
