@@ -34,6 +34,10 @@ Use the [SY0-701 exam-alignment guide](exam-alignment.md) for official domain we
 
 [Read the guide](../study-guides/security-governance.md), choose the missing document in the [exercise](../labs/11-governance-documents/README.md), then try [four questions](../practice-tests/governance-06.md). Partial SY0-701 5.1 coverage. Supplier reviews, legal requirements, and audits still need deeper material.
 
+## Security control selection
+
+[Read the guide](../study-guides/security-controls.md), classify the components in the [exercise](../labs/12-control-selection/README.md), and try [five questions](../practice-tests/controls-07.md). Partial SY0-701 1.1 coverage.
+
 ## Use a weak section
 
 Read its explanation, do the exercise before opening its answer, then explain the result in your own words. Review related cards afterward. Mark guesses as review items even if they were correct.
