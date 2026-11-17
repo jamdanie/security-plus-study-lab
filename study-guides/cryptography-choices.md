@@ -19,14 +19,7 @@ A public update must remain readable to everyone. Readers need evidence that its
 
 Change the requirement to private delivery, and encryption becomes relevant. Choose from the requirement, not from a single keyword.
 
-## Ready to move on?
-
-Without looking, explain why a valid signature does not hide a document and why a hash from an untrusted source is not independent proof. Then try the [stronger scenario questions](../practice-tests/applied-review-04.md).
-
-Objective connection: partial preparation for SY0-701 1.2 and 1.4. [See mapping and remaining gaps](../study/exam-alignment.md).
-
-
-Start with what you need to protect. A file can be unreadable to outsiders, checked for changes, or signed by a particular key. Those are different goals.
+## Compare the mechanisms
 
 | Need | Mechanism | What to remember |
 |---|---|---|
@@ -35,8 +28,6 @@ Start with what you need to protect. A file can be unreadable to outsiders, chec
 | Verify a signature and detect signed-data changes | Digital signature | Sign with the private key; verify with the corresponding public key |
 
 A plain hash does not identify who created a file. An attacker who can replace both a download and its reference hash can defeat that comparison. A digital signature adds a check tied to a signing key, but the verifier must also establish that the public key belongs to the intended signer.
-
-A signature does not make the content secret. You can publish a document and its signature for everyone to read and verify.
 
 ## Symmetric and asymmetric
 
@@ -55,6 +46,28 @@ RSA signing is not simply a general instruction to "encrypt with the private key
 A properly used signature supports evidence that data was signed using the private key corresponding to a public key. Connecting that evidence to a person depends on identity assurance and key protection. A stolen signing key complicates that judgment. Treat nonrepudiation as supported evidence, not a guarantee that disputes are impossible.
 
 Try the [choose-the-control exercise](../labs/06-choose-cryptographic-controls/README.md), or revisit the [file-hashing walkthrough](../labs/01-file-hashing/README.md).
+
+## Ready to move on?
+
+Without looking, explain why a valid signature does not hide a document and why a hash from an untrusted source is not independent proof. Then try the [stronger scenario questions](../practice-tests/applied-review-04.md).
+
+Objective connection: partial preparation for SY0-701 1.2 and 1.4. [See mapping and remaining gaps](../study/exam-alignment.md).
+
+## Keep the security property in view
+
+Confidentiality concerns unauthorized disclosure; integrity concerns unauthorized changes. A signature supports origin and integrity verification without making the contents secret. A system can need more than one mechanism.
+
+### Try it without the answer
+
+A publicly readable notice needs verifiable signed contents. Is a shared decryption password the closest match?
+
+<details>
+<summary>Explanation</summary>
+
+No. The stated need is signature verification with a trusted public key. Encryption addresses a different property and would limit public reading.
+
+</details>
+
 
 ## Sources
 
