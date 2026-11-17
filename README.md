@@ -2,6 +2,12 @@
 
 I'm building this project while studying for CompTIA Security+. It connects explanations, original practice questions, Anki cards, and exercises so I can understand the concepts and help others work through them.
 
+## Table of contents
+
+**[Open the full clickable table of contents](study/contents.md)** to choose a domain, topic, explanation, exercise, questions, or available Anki cards.
+
+[Exercises](labs/README.md) · [Practice tests](practice-tests/README.md) · [Short explanations](concepts/README.md) · [Quick comparisons](study/quick-comparisons.md) · [Review plan](study/review-plan.md)
+
 ## Pick a starting point
 
 | What you need | Open |
@@ -19,7 +25,7 @@ I'm building this project while studying for CompTIA Security+. It connects expl
 
 Read the explanation, predict the worked example, and answer its hidden-answer check. Follow the section's exercise or question link. For an error or correct guess, explain why the nearest alternative does not meet the requirement.
 
-The [study index](study/README.md) now brings all fifteen main guides and eleven practice sets into one place. Short pages add authentication factors, password storage, federation, certificate trust, data states, web attacks, mobile deployment, and local PowerShell event review.
+The [study index](study/README.md) now brings all fifteen main guides and twelve practice sets into one place. Short pages add authentication factors, password storage, federation, certificate trust, data states, web attacks, mobile deployment, and local PowerShell event review.
 
 ## Hands-on practice
 
