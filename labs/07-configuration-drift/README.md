@@ -20,6 +20,12 @@ The change register contains one approved exception: remote support may remain e
 
 UTC means Coordinated Universal Time. The table does not establish whether the service's access restriction is configured.
 
+## Work through the exception separately
+
+First mark a setting as matching or different. Then inspect any exception: does it apply to this device, this time, and these required safeguards? Do not change a different value to matching merely because an exception exists.
+
+For remote support, the review time is before expiry. You must still evaluate the logging condition and the network restriction. The table provides evidence about only one of those conditions.
+
 ## Your decisions
 
 1. Identify every value that differs from baseline version 1.
