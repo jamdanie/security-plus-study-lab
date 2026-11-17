@@ -42,6 +42,10 @@ Use the [SY0-701 exam-alignment guide](exam-alignment.md) for official domain we
 
 [Read the guide](../study-guides/attack-patterns.md), classify the [evidence](../labs/13-attack-evidence/README.md), and answer [four questions](../practice-tests/attack-patterns-08.md). Partial SY0-701 2.4 coverage. Focus on what the evidence establishes rather than assuming a cause from an impact alone.
 
+## Wireless access
+
+[Read the guide](../study-guides/wireless-access.md), work through the [exercise](../labs/14-wireless-access/README.md), and try [four questions](../practice-tests/wireless-09.md). Partial SY0-701 4.1 and 3.2 coverage.
+
 ## Use a weak section
 
 Read its explanation, do the exercise before opening its answer, then explain the result in your own words. Review related cards afterward. Mark guesses as review items even if they were correct.
