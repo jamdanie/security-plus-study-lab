@@ -1,25 +1,18 @@
 # Anki cards
 
-The sets contain original questions about hashing, identity and access, and network segmentation. Each card includes all choices on the front, a reasoning cue, the correct answer, and an explanation of each choice on the back.
+These seven public sets contain original questions. Each has three notes with choices, a reasoning cue, the answer, and explanations. They are separate from the private class/textbook deck.
 
-## Available sets
+## Choose a topic
 
-- [Hashing](hashing.txt): three cards linked to the file-hashing exercise.
-- [Identity and access](identity-and-access.txt): three cards linked to the access-review exercise.
-
-- [Network segmentation](network-segmentation.txt): three cards about VLAN boundaries, rule order, and default deny.
-
-- [Sign-in log review](sign-in-log-review.txt): three cards about evidence, permissions, and safe logging.
-
-- [Cryptography choices](cryptography-choices.txt): three cards about algorithms, signatures, and trusted keys.
-
-For class or textbook decks, read [Using your existing decks](using-your-existing-decks.md) before adding files publicly.
-
-- [Secure baselines](secure-baselines.txt): three cards about drift, exceptions, and approved references.
-
-The [existing deck review](deck-review.md) focuses on Security+; Cisco-tagged material is left aside.
-
-- [Backup and recovery](backup-and-recovery.txt): three cards about recovery objectives and restore testing.
+| Topic | Card file | Related exercise |
+|---|---|---|
+| Hashing | [Download source](hashing.txt) | [File hashing](../labs/01-file-hashing/README.md) |
+| Identity and access | [Download source](identity-and-access.txt) | [Access review](../labs/02-access-review/README.md) |
+| Network rules | [Download source](network-segmentation.txt) | [Firewall review](../labs/04-firewall-rule-review/README.md) |
+| Log interpretation | [Download source](sign-in-log-review.txt) | [Sign-in evidence](../labs/05-sign-in-log-review/README.md) |
+| Cryptography | [Download source](cryptography-choices.txt) | [Choose a control](../labs/06-choose-cryptographic-controls/README.md) |
+| Baselines | [Download source](secure-baselines.txt) | [Configuration drift](../labs/07-configuration-drift/README.md) |
+| Recovery | [Download source](backup-and-recovery.txt) | [Recovery objectives](../labs/08-recovery-objectives/README.md) |
 
 ## Import the cards
 
@@ -33,3 +26,7 @@ The [existing deck review](deck-review.md) focuses on Security+; Cisco-tagged ma
 These cards are separate from private textbook review decks. Please contribute original questions or material you have permission to share.
 
 [Anki text import documentation](https://docs.ankiweb.net/importing/text-files.html)
+
+## Existing decks and navigation
+
+[Using an existing deck](using-your-existing-decks.md) · [Personal deck review](deck-review.md) · [Full contents](../study/contents.md)
