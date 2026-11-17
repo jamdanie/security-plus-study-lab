@@ -34,6 +34,22 @@ Try the [responsibility exercise](../labs/10-cloud-responsibility/README.md) and
 
 Objective connection: partial SY0-701 3.1 preparation. [Exam alignment](../study/exam-alignment.md).
 
+## Locate the specific layer
+
+Before assigning a cloud task, name the service model, the layer, and the applicable agreement. The phrase managed service does not settle every responsibility. Review settings you control even when the provider patches other layers.
+
+### Try it without the answer
+
+The provider patches the application, but your administrator grants public access to a sensitive folder. Which setting needs review?
+
+<details>
+<summary>Explanation</summary>
+
+Review the customer-controlled sharing policy and effective access. Application patching does not authorize public sharing.
+
+</details>
+
+
 ## Sources
 
 - [Microsoft: Shared responsibility in the cloud](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility).
