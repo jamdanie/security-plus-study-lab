@@ -45,6 +45,8 @@ Each section connects explanation to practice. Start with the [topic index](stud
 
 - [Attack patterns](study-guides/attack-patterns.md): distinguish poisoning, on-path positioning, and privilege escalation with an [evidence exercise](labs/13-attack-evidence/README.md) and [four questions](practice-tests/attack-patterns-08.md).
 
+- [Wireless access](study-guides/wireless-access.md): authentication roles, trusted server identity, an [exercise](labs/14-wireless-access/README.md), and [four questions](practice-tests/wireless-09.md).
+
 ## Hands-on tools
 
 The [PowerShell file-hashing walkthrough](labs/01-file-hashing/README.md) and [Python hash-checker exercise](labs/03-python-hash-checker/README.md) let you compare file contents with a reference. The [Python tool](scripts/hash_file.py) includes [seven automated tests](tests/test_hash_file.py), which passed during development.
