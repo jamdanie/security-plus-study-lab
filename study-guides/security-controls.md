@@ -42,6 +42,22 @@ Try the [control-selection exercise](../labs/12-control-selection/README.md) and
 
 Objective connection: partial SY0-701 1.1 coverage. [Exam map](../study/exam-alignment.md).
 
+## Classify the component described
+
+Ask separately how a control is implemented and what function is emphasized. An application may both alert and block, but those are distinct actions. Do not let the product name answer both questions.
+
+### Try it without the answer
+
+Software alerts an analyst but leaves the connection open. Which purpose is directly shown?
+
+<details>
+<summary>Explanation</summary>
+
+Detection. The software implementation is technical, but the described alert does not itself prevent the connection.
+
+</details>
+
+
 ## Sources
 
 - [NIST: Technical controls](https://csrc.nist.gov/glossary/term/Technical_Controls).
