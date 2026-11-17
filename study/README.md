@@ -1,5 +1,9 @@
 # Find the section you need
 
+**[Full table of contents by domain](contents.md)** · [All exercises](../labs/README.md) · [All tests](../practice-tests/README.md) · [Short concepts](../concepts/README.md)
+
+For quick review, use [common comparisons](quick-comparisons.md), the [review plan](review-plan.md), or [Requirement review 12](../practice-tests/requirement-review-12.md).
+
 Choose a guide when you need the broader explanation. Use a short concept page when two terms keep getting mixed up. Then attempt questions without the answer key.
 
 [Exam weights and partial objective mapping](exam-alignment.md) · [Study methods](../resources/study-methods.md)
