@@ -37,6 +37,22 @@ Try the [document-selection exercise](../labs/11-governance-documents/README.md)
 
 Objective connection: partial SY0-701 5.1 coverage. This is not complete governance, legal, or compliance preparation. [Exam map](../study/exam-alignment.md).
 
+## Match the requested document function
+
+A broad obligation, mandatory configuration detail, step sequence, and recommendation answer different needs. Use the organization's stated hierarchy if it differs from these study conventions.
+
+### Try it without the answer
+
+A policy already requires access removal, but staff need the exact offboarding sequence. What is missing?
+
+<details>
+<summary>Explanation</summary>
+
+A procedure. Repeating the policy does not provide the operational steps, verification, or completion record.
+
+</details>
+
+
 ## Sources
 
 - [NIST: Policy](https://csrc.nist.gov/glossary/term/policy).
