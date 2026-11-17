@@ -19,6 +19,15 @@ All times are on the same fictional day in Coordinated Universal Time (UTC).
 
 Assume no transaction logs or other recovery copies are available.
 
+## Set up the calculations
+
+Use the actual usable data point, not the failed job's scheduled time.
+
+- Data age at outage = outage time minus usable data-point time.
+- Recovery duration = validated service-restoration time minus outage time, under this exercise's stated convention.
+
+Compare each duration with its own objective. Keep the units in minutes or hours consistently. A copy can finish writing after its captured data point; this scenario explicitly gives the data-point timestamp so that distinction does not change the arithmetic.
+
 ## Decide before opening the answer
 
 1. How old is the recovered data relative to the outage?
