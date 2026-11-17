@@ -27,18 +27,7 @@ Resetting the password addresses a credential. It does not by itself remove old 
 
 More than one action may be needed in a real incident. Identify what the question actually establishes before choosing.
 
-## Ready to move on?
-
-Explain why a successful login can be followed by a denied action. Then describe how an old group membership could defeat a role change. Try the [applied questions](../practice-tests/applied-review-04.md).
-
-Objective connection: partial preparation for SY0-701 1.2 and 4.6. [Coverage map](../study/exam-alignment.md).
-
-
 Identity and access management (IAM) covers how identities and their access are created, used, reviewed, and removed.
-
-Authentication checks a claimed identity. Authorization decides whether that identity can perform a particular action. Signing in successfully does not mean you should have access to every file.
-
-For example, a student signs into a course site. The sign-in checks who the student is. The permission check determines whether that student can read course material or change someone else's grade. This is a made-up example, not a description of a particular university system.
 
 ## Least privilege and access models
 
@@ -62,6 +51,28 @@ A shared account makes it harder to connect actions to a specific person. Separa
 If a former tutor can still open the answer guide after becoming a learner, the problem may be leftover authorization. Resetting a password alone does not remove those permissions.
 
 Try the [access-review exercise](../labs/02-access-review/README.md). It uses a fictional permissions table and requires no administrator access.
+
+## Ready to move on?
+
+Explain why a successful login can be followed by a denied action. Then describe how an old group membership could defeat a role change. Try the [applied questions](../practice-tests/applied-review-04.md).
+
+Objective connection: partial preparation for SY0-701 1.2 and 4.6. [Coverage map](../study/exam-alignment.md).
+
+## Verify effective permissions
+
+A role name is not the complete access decision. Direct grants, inherited groups, resource policies, and active sessions can matter. Review the paths relevant to the system rather than assuming a changed title removed access.
+
+### Try it without the answer
+
+A former tutor is labeled learner but still has an inherited answer-guide grant. Is the rename enough?
+
+<details>
+<summary>Explanation</summary>
+
+No. Remove or revise the unnecessary effective grant through the approved process and verify allowed and denied actions.
+
+</details>
+
 
 ## Sources
 
