@@ -10,6 +10,22 @@ A matching hash is only as useful as the reference you trust. If someone replace
 
 Try the [Windows hashing exercise](../labs/01-file-hashing/README.md), then review the [original Anki cards](../anki/README.md).
 
+## Predict before you calculate
+
+Treat the file's bytes as the input. A rename changes its path, not necessarily its contents. An editor can change line endings or encoding even when the visible wording looks identical.
+
+### Try it without the answer
+
+Two files look identical in an editor but have different hashes under the same algorithm. What can you conclude?
+
+<details>
+<summary>Explanation</summary>
+
+Their bytes differ. The mismatch alone does not identify malware, the author, or the reason for the difference. Investigate encoding, line endings, or other changes.
+
+</details>
+
+
 ## Sources
 
 - [Microsoft: Get-FileHash](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-filehash?view=powershell-5.1)
