@@ -4,6 +4,18 @@ Status: ready to try. No learner completion results have been recorded.
 
 The [sample log](events.log) is fictional training data in a custom format, not output from a real system. All eight event timestamps use Coordinated Universal Time (UTC). The source labels stand in for recorded device identifiers and do not prove who operated a device.
 
+## Build a small evidence table first
+
+Before assigning an attack label, group records by source and account. Record event time, action, and outcome. Count login failures separately from authorization denials.
+
+| Observation to extract | Why it matters |
+|---|---|
+| Distinct accounts failing from one source | Shows the breadth of attempted access |
+| Successful login after failures | Identifies a session worth correlating |
+| Denied resource action | Shows a permission decision, not another login failure |
+
+The exercise uses source labels, not verified device identities. A label's reuse does not prove a particular person operated it.
+
 ## Review the evidence
 
 Read the log and answer these questions before opening the suggested analysis:
