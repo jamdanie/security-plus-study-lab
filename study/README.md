@@ -1,57 +1,64 @@
-# Choose what you need to study
+# Find the section you need
 
-Start with a weak topic or take the [14-question mixed practice test](../practice-tests/mixed-01.md). Use the answer key to find the section to revisit.
+Choose a guide when you need the broader explanation. Use a short concept page when two terms keep getting mixed up. Then attempt questions without the answer key.
 
-Use the [SY0-701 exam-alignment guide](exam-alignment.md) for official domain weights and this project's partial objective mapping. Your registered exam code still needs confirmation. Textbook modules and certification objectives use different numbering. Areas without guides are still gaps; this is not a complete course. All public practice questions are original.
+[Exam weights and partial objective mapping](exam-alignment.md) · [Study methods](../resources/study-methods.md)
 
-| Section | What to work on | Read | Practice | Cards |
-|---|---|---|---|---|
-| Cryptography | Hashes, shared keys, signatures, trusted public keys | [Guide](../study-guides/cryptography-choices.md) | [Exercise](../labs/06-choose-cryptographic-controls/README.md) | [Anki](../anki/cryptography-choices.txt) |
-| Identity and access | Authentication, authorization, roles, least privilege | [Guide](../study-guides/identity-and-access.md) | [Exercise](../labs/02-access-review/README.md) | [Anki](../anki/identity-and-access.txt) |
-| Network security | VLAN boundaries, rule order, default deny | [Guide](../study-guides/network-segmentation.md) | [Exercise](../labs/04-firewall-rule-review/README.md) | [Anki](../anki/network-segmentation.txt) |
-| Security monitoring | Sign-in evidence, conclusions, sensitive log data | [Guide](../labs/05-sign-in-log-review/README.md) | [Exercise](../labs/05-sign-in-log-review/README.md) | [Anki](../anki/sign-in-log-review.txt) |
-| Secure configuration | Baselines, drift, exceptions | [Guide](../study-guides/secure-baselines.md) | [Exercise](../labs/07-configuration-drift/README.md) | [Anki](../anki/secure-baselines.txt) |
-| Recovery | Recovery point, recovery time, restore tests | [Guide](../study-guides/backup-and-recovery.md) | [Exercise](../labs/08-recovery-objectives/README.md) | [Anki](../anki/backup-and-recovery.txt) |
-| Social engineering | Urgency, independent verification, reporting | [Guide](../study-guides/phishing.md) | [Exercise](../labs/09-message-triage/README.md) | Not added yet |
+## Main guides
 
-## Additional sections
+| Topic | How to use it |
+|---|---|
+| [Attack evidence](../study-guides/attack-patterns.md) | Explanation, examples, and a hidden-answer check |
+| [Backup and recovery](../study-guides/backup-and-recovery.md) | Explanation, examples, and a hidden-answer check |
+| [Cloud responsibility](../study-guides/cloud-responsibility.md) | Explanation, examples, and a hidden-answer check |
+| [Cryptography choices](../study-guides/cryptography-choices.md) | Explanation, examples, and a hidden-answer check |
+| [File hashing](../study-guides/hashing.md) | Explanation, examples, and a hidden-answer check |
+| [Identity and access](../study-guides/identity-and-access.md) | Explanation, examples, and a hidden-answer check |
+| [Incident response](../study-guides/incident-response.md) | Explanation, examples, and a hidden-answer check |
+| [Network rules](../study-guides/network-segmentation.md) | Explanation, examples, and a hidden-answer check |
+| [Phishing](../study-guides/phishing.md) | Explanation, examples, and a hidden-answer check |
+| [Risk management](../study-guides/risk-management.md) | Explanation, examples, and a hidden-answer check |
+| [Secure baselines](../study-guides/secure-baselines.md) | Explanation, examples, and a hidden-answer check |
+| [Control selection](../study-guides/security-controls.md) | Explanation, examples, and a hidden-answer check |
+| [Governance](../study-guides/security-governance.md) | Explanation, examples, and a hidden-answer check |
+| [Vulnerability management](../study-guides/vulnerability-management.md) | Explanation, examples, and a hidden-answer check |
+| [Wireless access](../study-guides/wireless-access.md) | Explanation, examples, and a hidden-answer check |
 
-| Section | Focus | Read | Practice |
-|---|---|---|---|
-| Risk management | Responses, residual risk, loss calculations | [Guide](../study-guides/risk-management.md) | [Questions 1–3](../practice-tests/foundations-02.md) |
-| Vulnerability management | Validation, priority, remediation | [Guide](../study-guides/vulnerability-management.md) | [Questions 4–6](../practice-tests/foundations-02.md) |
-| Incident response | Containment, recovery, evidence | [Guide](../study-guides/incident-response.md) | [Questions 7–9](../practice-tests/foundations-02.md) |
+Each guide links its related exercises or questions. Sources appear on the guide. Coverage is partial; a page is not a completed exam objective.
 
-## Practice the objective connection
+## Short explanations
 
-[Mapped scenario drill 3](../practice-tests/mapped-scenarios-03.md) asks you to name the requirement behind each answer. See the [coverage map](exam-alignment.md) for gaps and question-level alignments.
+| Confusing topic | Focus |
+|---|---|
+| [Multifactor authentication](../concepts/multifactor-authentication.md) | Partial SY0-701 4.6 |
+| [Password storage](../concepts/password-storage.md) | Partial SY0-701 1.4, 4.6 |
+| [Single sign-on and federation](../concepts/single-sign-on.md) | Partial SY0-701 4.6 |
+| [Certificates](../concepts/certificate-trust.md) | Partial SY0-701 1.4 |
+| [Data states](../concepts/data-states.md) | Partial SY0-701 3.3 |
+| [Web attacks](../concepts/web-attack-distinctions.md) | Partial SY0-701 2.3, 2.4 |
+| [PowerShell](../concepts/powershell-log-review.md) | Partial SY0-701 4.9 |
+| [Mobile deployment](../concepts/mobile-deployment.md) | Partial SY0-701 4.1 |
 
-## Cloud responsibility
+## Choose a practice set
 
-[Read the guide](../study-guides/cloud-responsibility.md), assign duties in the [exercise](../labs/10-cloud-responsibility/README.md), and try [four practice questions](../practice-tests/cloud-05.md). Partial SY0-701 3.1 coverage; this does not complete cloud security or Domain 3.
+| Set | Questions or tasks | Purpose |
+|---|---|---|
+| [Mixed 1](../practice-tests/mixed-01.md) | 14 questions | Sample the early sections; use its separate answer key |
+| [Foundations 2](../practice-tests/foundations-02.md) | 9 questions | Risk, vulnerabilities, response |
+| [Mapped scenarios 3](../practice-tests/mapped-scenarios-03.md) | 6 questions | Connect a requirement to an objective |
+| [Applied review 4](../practice-tests/applied-review-04.md) | 6 questions | Compare plausible controls |
+| [Cloud 5](../practice-tests/cloud-05.md) | 4 questions | Responsibility boundaries |
+| [Governance 6](../practice-tests/governance-06.md) | 4 questions | Documents and approval |
+| [Controls 7](../practice-tests/controls-07.md) | 5 questions | Mechanism versus purpose |
+| [Attack patterns 8](../practice-tests/attack-patterns-08.md) | 4 questions | Evidence versus attack labels |
+| [Wireless 9](../practice-tests/wireless-09.md) | 4 questions | Authentication and access |
+| [Concept review 10](../practice-tests/concept-review-10.md) | 8 questions | New short explanations |
+| [Applied review 11](../practice-tests/applied-review-11.md) | 4 tasks | Explain a correction and verification |
 
-## Governance documents
+These sets are original, have uneven topic coverage, and do not follow full exam-domain proportions. Scores do not predict an official result.
 
-[Read the guide](../study-guides/security-governance.md), choose the missing document in the [exercise](../labs/11-governance-documents/README.md), then try [four questions](../practice-tests/governance-06.md). Partial SY0-701 5.1 coverage. Supplier reviews, legal requirements, and audits still need deeper material.
+## Review and return
 
-## Security control selection
+Mark errors and correct guesses. Identify the missed requirement or distinction, read the worked explanation, then try a changed example. [Anki import instructions](../anki/README.md) cover the available original card sets.
 
-[Read the guide](../study-guides/security-controls.md), classify the components in the [exercise](../labs/12-control-selection/README.md), and try [five questions](../practice-tests/controls-07.md). Partial SY0-701 1.1 coverage.
-
-## Attack patterns
-
-[Read the guide](../study-guides/attack-patterns.md), classify the [evidence](../labs/13-attack-evidence/README.md), and answer [four questions](../practice-tests/attack-patterns-08.md). Partial SY0-701 2.4 coverage. Focus on what the evidence establishes rather than assuming a cause from an impact alone.
-
-## Wireless access
-
-[Read the guide](../study-guides/wireless-access.md), work through the [exercise](../labs/14-wireless-access/README.md), and try [four questions](../practice-tests/wireless-09.md). Partial SY0-701 4.1 and 3.2 coverage.
-
-## Use a weak section
-
-Read its explanation, do the exercise before opening its answer, then explain the result in your own words. Review related cards afterward. Mark guesses as review items even if they were correct.
-
-For hashing, there are also [PowerShell](../labs/01-file-hashing/README.md) and [Python](../labs/03-python-hash-checker/README.md) exercises. [Anki import instructions](../anki/README.md) explain how to use the card files.
-
-## Coverage still to build
-
-Governance, wireless security, cloud security, and deeper incident-response exercises need dedicated material. The new risk, vulnerability, and response sections are introductory. Available questions cover only the sections listed above.
+The exam map uses SY0-701; confirm your registered exam code. The full blueprint still needs more coverage, including suppliers, audits, asset disposal, architecture choices, and automation. Textbook chapter numbers are not exam objective numbers.
