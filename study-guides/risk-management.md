@@ -36,6 +36,22 @@ A control costs $600 annually and is estimated to reduce ALE from $1,000 to $300
 
 Try [practice set 2](../practice-tests/foundations-02.md).
 
+## Keep units attached to the number
+
+Single loss expectancy describes an estimated loss per event. Annualized loss expectancy includes estimated event frequency per year. Converting a percentage to a decimal is part of the calculation, not a separate security judgment.
+
+### Try it without the answer
+
+A $10,000 asset has a 20% exposure factor and an annualized occurrence rate of 0.5. What is the annualized loss estimate?
+
+<details>
+<summary>Explanation</summary>
+
+$10,000 × 0.20 = $2,000 per event. $2,000 × 0.5 = $1,000 per year in this simplified model. This is an estimate, not a guaranteed yearly loss.
+
+</details>
+
+
 ## Source
 
 [NIST: Risk response](https://csrc.nist.gov/glossary/term/risk_response). Numerical examples are fictional teaching calculations.
