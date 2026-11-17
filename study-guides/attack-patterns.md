@@ -38,6 +38,22 @@ Try the [evidence exercise](../labs/13-attack-evidence/README.md) and [practice 
 
 Objective connection: partial SY0-701 2.4. This does not cover every malicious indicator in that objective.
 
+## Check the mechanism before the label
+
+An unexpected destination is an observation. A corrupted cache entry is evidence about a mechanism. Higher administrative capability is evidence about permissions. Keep those claims separate in your answer.
+
+### Try it without the answer
+
+A browser reaches the wrong server, but the local address cache is unchanged. Does that prove privilege escalation?
+
+<details>
+<summary>Explanation</summary>
+
+No. Neither an unexpected destination nor an unchanged cache establishes a gain in permissions. Gather evidence about resolution, configuration, and account activity.
+
+</details>
+
+
 ## Sources
 
 - [MITRE ATT&CK: Privilege Escalation](https://attack.mitre.org/tactics/TA0004/).
