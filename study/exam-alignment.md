@@ -33,6 +33,23 @@ Every row is partial coverage. Reading a linked page does not complete its entir
 | 4.8 | [Response](../study-guides/incident-response.md) | Distinguish limiting spread from removing a foothold or restoring service |
 | 5.2 | [Risk](../study-guides/risk-management.md) | Calculate a stated loss estimate and explain a risk decision |
 
+## Newly connected sections
+
+These are additional author-assigned partial connections. The official source above defines the objectives; these links identify where our examples practice a subset.
+
+| Objective IDs | Read | Demonstrate |
+|---|---|---|
+| 1.1 | [Control selection](../study-guides/security-controls.md) | Separate implementation category from purpose |
+| 1.4 | [Certificate trust](../concepts/certificate-trust.md) | Explain why one valid certificate property is insufficient |
+| 2.3, 2.4 | [Web attacks](../concepts/web-attack-distinctions.md) | Identify the interpreter and matching defense |
+| 3.1 | [Cloud responsibility](../study-guides/cloud-responsibility.md) | Apply the stated service agreement |
+| 3.3 | [Data states](../concepts/data-states.md) | Locate the exposed copy and required control |
+| 4.1 | [Wireless](../study-guides/wireless-access.md), [mobile](../concepts/mobile-deployment.md) | Separate access, ownership, and management scope |
+| 4.6 | [MFA](../concepts/multifactor-authentication.md), [SSO](../concepts/single-sign-on.md) | Distinguish factor categories and application permissions |
+| 5.1 | [Governance](../study-guides/security-governance.md) | Choose the document that meets the request |
+
+MFA means multifactor authentication; SSO means single sign-on. [Clickable contents](contents.md) · [All practice sets](../practice-tests/README.md).
+
 ## How to read a scenario
 
 First identify the requested outcome: identify, compare, apply, analyze, or choose a next action. Then identify constraints such as access scope, time, existing approval, and business need. Explain why the selected answer meets those constraints.
@@ -64,11 +81,11 @@ The repository is strongest in introductory operations exercises, but it is not 
 
 | Domain | Examples of work still needed |
 |---|---|
-| 1 | Control selection, trust decisions, certificate scenarios |
+| 1 | Deeper certificate lifecycle, physical controls, trust architecture |
 | 2 | Actor comparisons, application weaknesses, malware and network indicators |
-| 3 | Cloud responsibility, device constraints, data classification, availability designs |
-| 4 | Wireless/mobile setup, inventory and disposal, tool selection, automation |
-| 5 | Governance documents, supplier review, compliance, audits |
+| 3 | Deeper deployment constraints, classification decisions, availability designs |
+| 4 | Detailed wireless/mobile configuration, inventory/disposal, tools, automation |
+| 5 | Supplier review, compliance, audits, and governance lifecycle |
 
 Choose the largest gaps that also match your weak areas. Review the full linked objectives document rather than treating this table as the whole syllabus.
 
