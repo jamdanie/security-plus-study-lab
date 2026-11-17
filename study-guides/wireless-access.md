@@ -34,6 +34,22 @@ Try the [wireless decision exercise](../labs/14-wireless-access/README.md) and [
 
 Objective connection: partial SY0-701 4.1 and 3.2. This introduction does not cover every wireless protocol or deployment requirement.
 
+## Separate admission from application access
+
+Successful wireless authentication can coexist with a denied application request. Verify the intended access policy before treating isolation as a wireless outage. A familiar network name alone does not prove the access point is authorized.
+
+### Try it without the answer
+
+A guest reaches approved internet services but payroll is denied as required. Must the wireless password be wrong?
+
+<details>
+<summary>Explanation</summary>
+
+No. The stated results fit successful admission followed by an enforced authorization boundary.
+
+</details>
+
+
 ## Sources
 
 - [Microsoft: Plan NPS as a RADIUS server](https://learn.microsoft.com/en-us/windows-server/networking/technologies/nps/nps-plan-server).
