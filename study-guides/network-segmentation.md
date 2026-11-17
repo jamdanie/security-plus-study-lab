@@ -28,16 +28,7 @@ A rule that allows too much is not repaired by renaming a VLAN. A firewall also 
 
 Rule behavior depends on the platform. These examples deliberately state first-match evaluation; do not assume every product behaves identically.
 
-## Ready to move on?
-
-Trace one permitted request and one denied request through every relevant rule. Explain why an "allow HTTPS" rule can still violate an access requirement. Try the [applied questions](../practice-tests/applied-review-04.md).
-
-Objective connection: partial preparation for SY0-701 2.5, 3.2, and 4.5. [Coverage map](../study/exam-alignment.md).
-
-
 A virtual local area network (VLAN) creates a separate Layer 2 broadcast domain. Devices in different VLANs generally need a Layer 3 device to communicate. That could be a router or a multilayer switch.
-
-The security question is what traffic that device permits. Creating two VLANs does not automatically define a restrictive policy between them. If routing permits broad communication, devices can still reach services across the boundary.
 
 ## A simple example
 
@@ -68,10 +59,32 @@ Stateful firewalls can permit return traffic for an allowed connection based on 
 
 Try the [firewall rule-review exercise](../labs/04-firewall-rule-review/README.md).
 
+## Ready to move on?
+
+Trace one permitted request and one denied request through every relevant rule. Explain why an "allow HTTPS" rule can still violate an access requirement. Try the [applied questions](../practice-tests/applied-review-04.md).
+
+Objective connection: partial preparation for SY0-701 2.5, 3.2, and 4.5. [Coverage map](../study/exam-alignment.md).
+
+## Test both permitted and forbidden traffic
+
+State the source, destination, protocol, and service before tracing the rule set. After a correction, verify a request that should work and one that should fail. An allow-only test can miss overbroad access.
+
+### Try it without the answer
+
+A staff connection succeeds after a rule change. Does that establish guests are blocked?
+
+<details>
+<summary>Explanation</summary>
+
+No. Test the guest request against the applicable rule order and scope. Staff success alone does not prove the restriction.
+
+</details>
+
+
 ## Sources
 
 - [NIST: Deny by Default](https://csrc.nist.gov/glossary/term/deny_by_default).
 - [NIST SP 800-41 Revision 1: Guidelines on Firewalls and Firewall Policy](https://csrc.nist.gov/pubs/sp/800/41/r1/final).
 - [CISA and partner agencies: Enhanced Visibility and Hardening Guidance for Communications Infrastructure](https://www.cisa.gov/sites/default/files/2024-12/joint-guidance-enhanced-visibility-hardening-guide-for-comms-infrastructure-508c.pdf), discussion of segmentation, VLANs, and access controls.
 
-These are original study notes. Exam-objective mapping has not been confirmed.
+These are original study notes. See the [partial exam map](../study/exam-alignment.md).
