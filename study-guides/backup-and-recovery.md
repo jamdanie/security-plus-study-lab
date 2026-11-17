@@ -29,10 +29,26 @@ Recovery may require identities, configuration, application software, licenses, 
 
 Try the [recovery-planning exercise](../labs/08-recovery-objectives/README.md).
 
+## Read the timeline in two directions
+
+For data loss, compare the outage time with the latest usable data point. For recovery duration, compare the outage with validated service restoration under the question's stated measurement. A scheduled job is not necessarily a usable recovery point.
+
+### Try it without the answer
+
+An outage starts at 10:00. Usable data is from 09:40 and service returns at 12:00. RPO is 30 minutes and RTO is three hours. Are both met?
+
+<details>
+<summary>Explanation</summary>
+
+Yes under these assumptions: the data point is 20 minutes old and recovery takes two hours. RPO means recovery point objective; RTO means recovery time objective.
+
+</details>
+
+
 ## Sources
 
 - [NIST: Recovery point objective](https://csrc.nist.gov/glossary/term/recovery_point_objective).
 - [NIST: Recovery time objective](https://csrc.nist.gov/glossary/term/recovery_time_objective).
 - [CISA: StopRansomware Guide](https://www.cisa.gov/sites/default/files/2025-03/StopRansomware-Guide%20508.pdf), backup protection and recovery testing guidance.
 
-Original supporting material. Exam-objective mapping has not been confirmed.
+Original supporting material. Partial objective connections appear in the [exam map](../study/exam-alignment.md).
