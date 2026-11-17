@@ -30,6 +30,22 @@ Do not edit the reference merely to make a failed comparison pass. If the refere
 
 Try the [configuration-drift exercise](../labs/07-configuration-drift/README.md).
 
+## Check an exception's conditions
+
+An approval can be limited by system, time, purpose, and required safeguards. Review those conditions before treating a deviation as permitted. A matching setting and an approved exception are different kinds of evidence.
+
+### Try it without the answer
+
+A support exception expires at 18:00 and requires logging. At 16:00 logging is off. Is the exception fully satisfied?
+
+<details>
+<summary>Explanation</summary>
+
+No. Its time window is open, but the logging condition is unmet. Verify all conditions and coordinate remediation with the responsible owner.
+
+</details>
+
+
 ## Sources
 
 - [NIST: Baseline configuration](https://csrc.nist.gov/glossary/term/baseline_configuration).
