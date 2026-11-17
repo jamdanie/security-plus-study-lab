@@ -16,6 +16,22 @@ The goal is to verify whether the request is legitimate before disclosing inform
 
 Try the [message-triage exercise](../labs/09-message-triage/README.md).
 
+## Verify through a different trust path
+
+Treat the request and the verification route separately. A suspicious message should not supply the only phone number or link used to establish its own legitimacy. Familiar branding does not close that gap.
+
+### Try it without the answer
+
+A message tells you to call a number in its attachment to confirm a password request. Is that independent verification?
+
+<details>
+<summary>Explanation</summary>
+
+No. Use an already trusted contact route or independently obtained official support information. Do not disclose the password.
+
+</details>
+
+
 ## Source
 
 [CISA: Avoid Phishing Scams with Three Simple Tips](https://www.cisa.gov/sites/default/files/2024-09/Secure-Our-World-Phishing-Tip-Sheet.pdf), warning signs and reporting guidance.
