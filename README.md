@@ -1,61 +1,35 @@
 # Security+ study lab
 
-I'm building this project while studying for CompTIA Security+. It brings together explanations, Anki cards, walkthroughs, and exercises so I can practice what I'm learning and help others work through the same topics.
+I'm building this project while studying for CompTIA Security+. It connects explanations, original practice questions, Anki cards, and exercises so I can understand the concepts and help others work through them.
 
-## Where do you want to start?
+## Pick a starting point
 
-| Goal | Start here |
+| What you need | Open |
 |---|---|
-| See exam weights and objective connections | [SY0-701 alignment](study/exam-alignment.md) |
-| Work on a weak section | [Study by topic](study/README.md) |
-| Find what needs review | [Mixed practice test 1: 14 questions](practice-tests/mixed-01.md) |
-| Check answers and choose a section | [Explained answers and review links](practice-tests/mixed-01-answers.md) |
-| Review with flashcards | [Anki sets and import instructions](anki/README.md) |
-| Use existing class cards as a study source | [Security+ deck review](anki/deck-review.md) |
+| A topic you find difficult | [Study index](study/README.md) |
+| Official domain weights and our partial mapping | [SY0-701 exam alignment](study/exam-alignment.md) |
+| Short explanations of commonly confused terms | [Concept pages](study/README.md#short-explanations) |
+| A first mixed question set | [Mixed practice 1](practice-tests/mixed-01.md) |
+| Practice on the new concepts | [Concept review 10](practice-tests/concept-review-10.md) |
+| Explain a correction without answer choices | [Applied review 11](practice-tests/applied-review-11.md) |
+| Flashcard downloads and instructions | [Anki](anki/README.md) |
+| A repeatable review process | [Study methods and resources](resources/study-methods.md) |
 
-## Study sections
+## How a section works
 
-- [Cryptography](study-guides/cryptography-choices.md)
-- [Identity and access](study-guides/identity-and-access.md)
-- [Network segmentation and firewall rules](study-guides/network-segmentation.md)
-- [Security monitoring and sign-in logs](labs/05-sign-in-log-review/README.md)
-- [Secure baselines and configuration drift](study-guides/secure-baselines.md)
-- [Backup and recovery](study-guides/backup-and-recovery.md)
-- [Phishing and message verification](study-guides/phishing.md)
+Read the explanation, predict the worked example, and answer its hidden-answer check. Follow the section's exercise or question link. For an error or correct guess, explain why the nearest alternative does not meet the requirement.
 
-Each section connects explanation to practice. Start with the [topic index](study/README.md) for the exercise and card links.
+The [study index](study/README.md) now brings all fifteen main guides and eleven practice sets into one place. Short pages add authentication factors, password storage, federation, certificate trust, data states, web attacks, mobile deployment, and local PowerShell event review.
 
-## More exam preparation
+## Hands-on practice
 
-- [Risk management](study-guides/risk-management.md): response choices, residual risk, and loss calculations.
-- [Vulnerability management](study-guides/vulnerability-management.md): validation, prioritization, and remediation checks.
-- [Incident response](study-guides/incident-response.md): containment, recovery, and evidence handling.
-- [Practice set 2](practice-tests/foundations-02.md): nine original questions with explanations and section links.
+Try [PowerShell file hashing](labs/01-file-hashing/README.md), the [Python hash checker](labs/03-python-hash-checker/README.md), or [reading a small Windows event sample](concepts/powershell-log-review.md). The [Python tests](tests/test_hash_file.py) cover seven cases and passed during its development. No new Windows execution result is claimed.
 
-- [Mapped scenario drill 3](practice-tests/mapped-scenarios-03.md): six original questions connecting requirements, decisions, and objective IDs.
+## Status and scope
 
-- [Applied review 4](practice-tests/applied-review-04.md): six scenarios with plausible alternatives and worked-example links.
-- [Study methods and resource reports](resources/study-methods.md): a repeatable review loop and clearly labeled candidate anecdotes.
+The objective reference is SY0-701 version 5.0; confirm your exam registration uses that code. Coverage is partial. The existing short question sets are not full weighted mock exams, and their scores do not establish readiness.
 
-- [Cloud shared responsibility](study-guides/cloud-responsibility.md): worked examples, an [offline exercise](labs/10-cloud-responsibility/README.md), and [four original questions](practice-tests/cloud-05.md).
-
-- [Security governance](study-guides/security-governance.md): document selection, approval boundaries, an [exercise](labs/11-governance-documents/README.md), and [four original questions](practice-tests/governance-06.md).
-
-- [Security control selection](study-guides/security-controls.md): distinguish implementation from purpose, try an [exercise](labs/12-control-selection/README.md), and answer [five questions](practice-tests/controls-07.md).
-
-- [Attack patterns](study-guides/attack-patterns.md): distinguish poisoning, on-path positioning, and privilege escalation with an [evidence exercise](labs/13-attack-evidence/README.md) and [four questions](practice-tests/attack-patterns-08.md).
-
-- [Wireless access](study-guides/wireless-access.md): authentication roles, trusted server identity, an [exercise](labs/14-wireless-access/README.md), and [four questions](practice-tests/wireless-09.md).
-
-## Hands-on tools
-
-The [PowerShell file-hashing walkthrough](labs/01-file-hashing/README.md) and [Python hash-checker exercise](labs/03-python-hash-checker/README.md) let you compare file contents with a reference. The [Python tool](scripts/hash_file.py) includes [seven automated tests](tests/test_hash_file.py), which passed during development.
-
-## Project status
-
-Exercises are ready to try; personal completion results have not been recorded. Public practice questions are original. The short test covers this repository's available topics, not the full certification blueprint, and its score does not predict exam readiness.
-
-An initial partial mapping to SY0-701 objectives version 5.0 is available in the [exam-alignment guide](study/exam-alignment.md). Your registered exam code has not been confirmed. Introductory risk, vulnerability management, and incident response guides are available. Governance, wireless security, cloud security, and deeper coverage across topics remain to be built. The website, automated GitHub workflow, and connected services are not implemented.
+Exercises remain ready to try unless a learner records actual results. A performance-style task here is an original offline exercise, not a reproduction of CompTIA's interface. The website, hosted services, and automated GitHub workflow are not implemented.
 
 ## Textbook and sources
 
