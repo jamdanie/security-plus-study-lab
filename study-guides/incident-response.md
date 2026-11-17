@@ -27,6 +27,22 @@ Disconnecting an affected workstation can contain communication without removing
 
 Try the [sign-in evidence exercise](../labs/05-sign-in-log-review/README.md) and [practice set 2](../practice-tests/foundations-02.md).
 
+## Use the next-action requirement
+
+Choose an action based on what the response lead is trying to achieve now. Limiting spread, removing persistence, restoring operation, and collecting evidence are related tasks with different immediate purposes.
+
+### Try it without the answer
+
+A device is isolated but its persistence mechanism remains. Has isolation established eradication?
+
+<details>
+<summary>Explanation</summary>
+
+No. Isolation can contain communication without removing the foothold. Investigate and address the cause before validating recovery.
+
+</details>
+
+
 ## Source
 
 [NIST SP 800-61 Revision 3: Incident Response Recommendations and Considerations for Cybersecurity Risk Management](https://csrc.nist.gov/pubs/sp/800/61/r3/final).
