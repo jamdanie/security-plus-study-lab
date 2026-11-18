@@ -43,6 +43,7 @@ Sections use SY0-701 domain groupings for navigation. Topics can span domains; s
 
 | Topic | Read | Try | Questions | Cards |
 |---|---|---|---|---|
+| Asset lifecycle | [Explanation](../study-guides/asset-lifecycle.md) | [Exercise](../labs/15-asset-disposition/README.md) | [Practice](../practice-tests/assets-13.md) | — |
 | Identity and permissions | [Explanation](../study-guides/identity-and-access.md) | [Exercise](../labs/02-access-review/README.md) | [Practice](../practice-tests/applied-review-04.md) | [Anki](../anki/identity-and-access.txt) |
 | Multifactor authentication | [Explanation](../concepts/multifactor-authentication.md) | — | [Practice](../practice-tests/concept-review-10.md) | — |
 | Single sign-on | [Explanation](../concepts/single-sign-on.md) | — | [Practice](../practice-tests/concept-review-10.md) | — |
