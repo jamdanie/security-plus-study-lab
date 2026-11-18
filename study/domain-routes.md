@@ -50,6 +50,12 @@ Try [supplier review](../labs/17-supplier-review/README.md). Match requested evi
 
 Review [Governance 6](../practice-tests/governance-06.md) and questions 4–6 in [Trust and suppliers 14](../practice-tests/trust-and-suppliers-14.md).
 
+## Add a visual practice session
+
+For network basics, try [watching packet events](../labs/18-packet-tracer-visual/README.md) before reviewing segmentation. For availability, trace the [resilience drawing](../labs/19-visual-resilience/README.md) and identify the shared dependency. Use the [resource directory](../resources/visual-and-gamified-learning.md) for beginner challenges or optional paid games.
+
+Keep a [hands-on note](hands-on-notes.md) that separates your prediction, observed result, and explanation. These activities support selected concepts; they do not replace the full domain objectives.
+
 ## When to move on
 
 Before leaving a topic, explain a decision without the answer choices. Record the missed distinction, revisit it after a break, and try a changed example. Use [Anki](../anki/README.md) for available cards and the [review plan](review-plan.md) to structure the next session.
