@@ -33,6 +33,10 @@ The [study index](study/README.md) now brings all eighteen main guides and fourt
 
 [Asset lifecycle guide](study-guides/asset-lifecycle.md) · [Offline disposition exercise](labs/15-asset-disposition/README.md) · [Four practice questions](practice-tests/assets-13.md)
 
+## Visual and gamified learning
+
+[Choose a free lab or optional paid game](resources/visual-and-gamified-learning.md). Watch packets in Packet Tracer, try a beginner challenge, or connect a Steam data center session to availability and asset concepts. Start with the [packet observation exercise](labs/18-packet-tracer-visual/README.md) or the [offline resilience drawing](labs/19-visual-resilience/README.md).
+
 ## Hands-on practice
 
 Try [PowerShell file hashing](labs/01-file-hashing/README.md), the [Python hash checker](labs/03-python-hash-checker/README.md), or [reading a small Windows event sample](concepts/powershell-log-review.md). The [Python tests](tests/test_hash_file.py) cover seven cases and passed during its development. No new Windows execution result is claimed.
