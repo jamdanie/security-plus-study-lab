@@ -8,6 +8,8 @@ I'm building this project while studying for CompTIA Security+. It connects expl
 
 [Exercises](labs/README.md) · [Practice tests](practice-tests/README.md) · [Short explanations](concepts/README.md) · [Quick comparisons](study/quick-comparisons.md) · [Review plan](study/review-plan.md)
 
+Follow a [guided route through each domain](study/domain-routes.md) when you want a reading, exercise, and review sequence.
+
 ## Pick a starting point
 
 | What you need | Open |
@@ -25,7 +27,7 @@ I'm building this project while studying for CompTIA Security+. It connects expl
 
 Read the explanation, predict the worked example, and answer its hidden-answer check. Follow the section's exercise or question link. For an error or correct guess, explain why the nearest alternative does not meet the requirement.
 
-The [study index](study/README.md) now brings all sixteen main guides and thirteen practice sets into one place. Short pages add authentication factors, password storage, federation, certificate trust, data states, web attacks, mobile deployment, and local PowerShell event review.
+The [study index](study/README.md) now brings all eighteen main guides and fourteen practice sets into one place. Short pages add authentication factors, password storage, federation, certificate trust, data states, web attacks, mobile deployment, and local PowerShell event review.
 
 ## Asset tracking and disposal
 
