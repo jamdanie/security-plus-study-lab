@@ -25,7 +25,11 @@ I'm building this project while studying for CompTIA Security+. It connects expl
 
 Read the explanation, predict the worked example, and answer its hidden-answer check. Follow the section's exercise or question link. For an error or correct guess, explain why the nearest alternative does not meet the requirement.
 
-The [study index](study/README.md) now brings all fifteen main guides and twelve practice sets into one place. Short pages add authentication factors, password storage, federation, certificate trust, data states, web attacks, mobile deployment, and local PowerShell event review.
+The [study index](study/README.md) now brings all sixteen main guides and thirteen practice sets into one place. Short pages add authentication factors, password storage, federation, certificate trust, data states, web attacks, mobile deployment, and local PowerShell event review.
+
+## Asset tracking and disposal
+
+[Asset lifecycle guide](study-guides/asset-lifecycle.md) · [Offline disposition exercise](labs/15-asset-disposition/README.md) · [Four practice questions](practice-tests/assets-13.md)
 
 ## Hands-on practice
 
