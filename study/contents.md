@@ -11,6 +11,7 @@ Prefer a sequence? Follow the [domain study routes](domain-routes.md).
 - [3. Security architecture](#3-security-architecture)
 - [4. Security operations](#4-security-operations)
 - [5. Program management and oversight](#5-program-management-and-oversight)
+- [Visual and hands-on learning](#visual-and-hands-on-learning)
 - [Quick reference and study tools](#quick-reference-and-study-tools)
 
 Sections use SY0-701 domain groupings for navigation. Topics can span domains; see the [objective map](exam-alignment.md) for partial connections and official weights. This is a contents page for available material, not a complete copy of the exam blueprint.
@@ -66,6 +67,16 @@ Sections use SY0-701 domain groupings for navigation. Topics can span domains; s
 | Third-party risk | [Explanation](../study-guides/third-party-risk.md) | [Exercise](../labs/17-supplier-review/README.md) | [Practice](../practice-tests/trust-and-suppliers-14.md) | — |
 | Governance documents | [Explanation](../study-guides/security-governance.md) | [Exercise](../labs/11-governance-documents/README.md) | [Practice](../practice-tests/governance-06.md) | — |
 | Risk and loss estimates | [Explanation](../study-guides/risk-management.md) | — | [Practice](../practice-tests/foundations-02.md) | — |
+
+## Visual and hands-on learning
+
+| Need | Open |
+|---|---|
+| Choose a free challenge or visual tool | [Learning resource directory](../resources/visual-and-gamified-learning.md) |
+| Compare similarly named paid Steam games | [Data center game guide](../resources/steam-data-center-games.md) |
+| Watch network events step by step | [Packet Tracer exercise](../labs/18-packet-tracer-visual/README.md) |
+| Find a shared failure without software | [Visual resilience exercise](../labs/19-visual-resilience/README.md) |
+| Explain and save your observations | [Hands-on notes](hands-on-notes.md) |
 
 ## Quick reference and study tools
 
