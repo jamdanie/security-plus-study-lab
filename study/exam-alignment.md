@@ -45,6 +45,7 @@ These are additional author-assigned partial connections. The official source ab
 | 3.1 | [Cloud responsibility](../study-guides/cloud-responsibility.md) | Apply the stated service agreement |
 | 3.3 | [Data states](../concepts/data-states.md) | Locate the exposed copy and required control |
 | 4.1 | [Wireless](../study-guides/wireless-access.md), [mobile](../concepts/mobile-deployment.md) | Separate access, ownership, and management scope |
+| 4.2 | [Asset lifecycle](../study-guides/asset-lifecycle.md) | Reconcile device identity, ownership, and disposition evidence |
 | 4.6 | [MFA](../concepts/multifactor-authentication.md), [SSO](../concepts/single-sign-on.md) | Distinguish factor categories and application permissions |
 | 5.1 | [Governance](../study-guides/security-governance.md) | Choose the document that meets the request |
 
@@ -84,7 +85,7 @@ The repository is strongest in introductory operations exercises, but it is not 
 | 1 | Deeper certificate lifecycle, physical controls, trust architecture |
 | 2 | Actor comparisons, application weaknesses, malware and network indicators |
 | 3 | Deeper deployment constraints, classification decisions, availability designs |
-| 4 | Detailed wireless/mobile configuration, inventory/disposal, tools, automation |
+| 4 | Detailed wireless/mobile configuration, media-specific disposition, tools, automation |
 | 5 | Supplier review, compliance, audits, and governance lifecycle |
 
 Choose the largest gaps that also match your weak areas. Review the full linked objectives document rather than treating this table as the whole syllabus.
