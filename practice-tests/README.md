@@ -17,6 +17,7 @@ Choose a targeted set for a weak topic or start with Mixed 1. Read each set's sc
 | [Applied review 11](applied-review-11.md) | 4 tasks | Explain a correction and verification | Hidden section in the set |
 | [Requirement review 12](requirement-review-12.md) | 6 questions | Distinguish the requested outcome | Hidden section in the set |
 | [Asset lifecycle 13](assets-13.md) | 4 questions | Inventory and disposal evidence | Hidden section in the set |
+| [Trust and suppliers 14](trust-and-suppliers-14.md) | 6 questions | Resource access and supplier evidence | Hidden section in the set |
 
 ## Use the result
 
