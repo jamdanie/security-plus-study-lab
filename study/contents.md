@@ -2,6 +2,8 @@
 
 Choose a topic below, then click its explanation, exercise, questions, or available card file. A dash means no dedicated item is linked here, not that it is unnecessary.
 
+Prefer a sequence? Follow the [domain study routes](domain-routes.md).
+
 ## Jump to a section
 
 - [1. General security concepts](#1-general-security-concepts)
@@ -17,6 +19,7 @@ Sections use SY0-701 domain groupings for navigation. Topics can span domains; s
 
 | Topic | Read | Try | Questions | Cards |
 |---|---|---|---|---|
+| Zero trust | [Explanation](../study-guides/zero-trust.md) | [Exercise](../labs/16-zero-trust-decisions/README.md) | [Practice](../practice-tests/trust-and-suppliers-14.md) | — |
 | Security controls | [Explanation](../study-guides/security-controls.md) | [Exercise](../labs/12-control-selection/README.md) | [Practice](../practice-tests/controls-07.md) | — |
 | Hashing | [Explanation](../study-guides/hashing.md) | [Exercise](../labs/01-file-hashing/README.md) | [Practice](../practice-tests/mixed-01.md) | [Anki](../anki/hashing.txt) |
 | Encryption and signatures | [Explanation](../study-guides/cryptography-choices.md) | [Exercise](../labs/06-choose-cryptographic-controls/README.md) | [Practice](../practice-tests/applied-review-04.md) | [Anki](../anki/cryptography-choices.txt) |
@@ -60,6 +63,7 @@ Sections use SY0-701 domain groupings for navigation. Topics can span domains; s
 
 | Topic | Read | Try | Questions | Cards |
 |---|---|---|---|---|
+| Third-party risk | [Explanation](../study-guides/third-party-risk.md) | [Exercise](../labs/17-supplier-review/README.md) | [Practice](../practice-tests/trust-and-suppliers-14.md) | — |
 | Governance documents | [Explanation](../study-guides/security-governance.md) | [Exercise](../labs/11-governance-documents/README.md) | [Practice](../practice-tests/governance-06.md) | — |
 | Risk and loss estimates | [Explanation](../study-guides/risk-management.md) | — | [Practice](../practice-tests/foundations-02.md) | — |
 
