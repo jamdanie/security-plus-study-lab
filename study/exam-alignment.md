@@ -39,6 +39,8 @@ These are additional author-assigned partial connections. The official source ab
 
 | Objective IDs | Read | Demonstrate |
 |---|---|---|
+| 1.2 | [Zero trust](../study-guides/zero-trust.md) | Explain a resource decision using role and device conditions |
+| 5.3 | [Third-party risk](../study-guides/third-party-risk.md) | Match supplier evidence to service requirements |
 | 1.1 | [Control selection](../study-guides/security-controls.md) | Separate implementation category from purpose |
 | 1.4 | [Certificate trust](../concepts/certificate-trust.md) | Explain why one valid certificate property is insufficient |
 | 2.3, 2.4 | [Web attacks](../concepts/web-attack-distinctions.md) | Identify the interpreter and matching defense |
@@ -50,6 +52,8 @@ These are additional author-assigned partial connections. The official source ab
 | 5.1 | [Governance](../study-guides/security-governance.md) | Choose the document that meets the request |
 
 MFA means multifactor authentication; SSO means single sign-on. [Clickable contents](contents.md) · [All practice sets](../practice-tests/README.md).
+
+[Domain study routes](domain-routes.md) provide reading and practice sequences. [Trust and suppliers 14](../practice-tests/trust-and-suppliers-14.md) maps questions 1–3 to partial 1.2 and 4–6 to partial 5.3.
 
 ## How to read a scenario
 
@@ -82,11 +86,11 @@ The repository is strongest in introductory operations exercises, but it is not 
 
 | Domain | Examples of work still needed |
 |---|---|
-| 1 | Deeper certificate lifecycle, physical controls, trust architecture |
+| 1 | Deeper certificate lifecycle, physical controls, deeper trust architecture |
 | 2 | Actor comparisons, application weaknesses, malware and network indicators |
 | 3 | Deeper deployment constraints, classification decisions, availability designs |
 | 4 | Detailed wireless/mobile configuration, media-specific disposition, tools, automation |
-| 5 | Supplier review, compliance, audits, and governance lifecycle |
+| 5 | Deeper supplier assessments, compliance, audits, and governance lifecycle |
 
 Choose the largest gaps that also match your weak areas. Review the full linked objectives document rather than treating this table as the whole syllabus.
 
