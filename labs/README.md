@@ -18,6 +18,7 @@ Pick the skill you want to practice. Offline exercises use fictional scenarios; 
 | [12. Control selection](12-control-selection/README.md) | Offline | Classify mechanism and purpose |
 | [13. Attack evidence](13-attack-evidence/README.md) | Offline | Name only the mechanism supported by evidence |
 | [14. Wireless access](14-wireless-access/README.md) | Offline | Distinguish authentication from network authorization |
+| [15. Asset disposition](15-asset-disposition/README.md) | Offline | Reconcile ownership, retention, and sanitization evidence |
 
 ## Before opening the answer
 
