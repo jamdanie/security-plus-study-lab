@@ -17,6 +17,12 @@ Sources are linked at the bottom of each guide and concept page so readers can c
 | Candidate study experiences | [Study methods](study-methods.md), labeled as anecdotes |
 | Official domain weights | [Exam alignment](../study/exam-alignment.md) and its linked official objectives |
 
+## Visual practice and games
+
+The [visual and gamified learning directory](visual-and-gamified-learning.md) compares Cisco Packet Tracer, Bandit, CMU's current picoCTF destination, PortSwigger labs, and optional paid Steam games. Each entry explains the experience and its limits.
+
+Use the [Steam title comparison](steam-data-center-games.md) to distinguish products before buying. Try our [Packet Tracer observation](../labs/18-packet-tracer-visual/README.md) or [offline failure analysis](../labs/19-visual-resilience/README.md), then keep a [learning note](../study/hands-on-notes.md).
+
 ## Documentation
 
 - [Microsoft Get-FileHash](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-filehash?view=powershell-5.1): the PowerShell command used in the first exercise.
