@@ -1,6 +1,6 @@
 # Exercise directory
 
-Pick the skill you want to practice. Offline exercises use fictional scenarios; they do not require a live target or paid account. The local command exercises list their own requirements.
+Pick the skill you want to practice. For external training platforms and optional paid games, use the [visual learning directory](../resources/visual-and-gamified-learning.md). Offline exercises use fictional scenarios; they do not require a live target or paid account. The local command exercises list their own requirements.
 
 | Exercise | Environment | What to demonstrate |
 |---|---|---|
@@ -21,6 +21,8 @@ Pick the skill you want to practice. Offline exercises use fictional scenarios; 
 | [15. Asset disposition](15-asset-disposition/README.md) | Offline | Reconcile ownership, retention, and sanitization evidence |
 | [16. Zero trust decisions](16-zero-trust-decisions/README.md) | Offline | Apply role and device conditions to resource requests |
 | [17. Supplier review](17-supplier-review/README.md) | Offline | Identify missing evidence for recovery, export, and notification |
+| [18. Visual packet observation](18-packet-tracer-visual/README.md) | Cisco Packet Tracer | Compare a baseline and a disconnected path in Simulation mode |
+| [19. Visual resilience](19-visual-resilience/README.md) | Offline | Find shared dependencies in an alternate-path design |
 
 ## Before opening the answer
 
