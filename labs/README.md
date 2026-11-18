@@ -19,6 +19,8 @@ Pick the skill you want to practice. Offline exercises use fictional scenarios; 
 | [13. Attack evidence](13-attack-evidence/README.md) | Offline | Name only the mechanism supported by evidence |
 | [14. Wireless access](14-wireless-access/README.md) | Offline | Distinguish authentication from network authorization |
 | [15. Asset disposition](15-asset-disposition/README.md) | Offline | Reconcile ownership, retention, and sanitization evidence |
+| [16. Zero trust decisions](16-zero-trust-decisions/README.md) | Offline | Apply role and device conditions to resource requests |
+| [17. Supplier review](17-supplier-review/README.md) | Offline | Identify missing evidence for recovery, export, and notification |
 
 ## Before opening the answer
 
