@@ -12,6 +12,7 @@ Choose a guide when you need the broader explanation. Use a short concept page w
 
 | Topic | How to use it |
 |---|---|
+| [Asset lifecycle](../study-guides/asset-lifecycle.md) | Ownership, inventory, and disposition decisions |
 | [Attack evidence](../study-guides/attack-patterns.md) | Explanation, examples, and a hidden-answer check |
 | [Backup and recovery](../study-guides/backup-and-recovery.md) | Explanation, examples, and a hidden-answer check |
 | [Cloud responsibility](../study-guides/cloud-responsibility.md) | Explanation, examples, and a hidden-answer check |
@@ -58,6 +59,8 @@ Each guide links its related exercises or questions. Sources appear on the guide
 | [Wireless 9](../practice-tests/wireless-09.md) | 4 questions | Authentication and access |
 | [Concept review 10](../practice-tests/concept-review-10.md) | 8 questions | New short explanations |
 | [Applied review 11](../practice-tests/applied-review-11.md) | 4 tasks | Explain a correction and verification |
+| [Requirement review 12](../practice-tests/requirement-review-12.md) | 6 questions | Identify the requested outcome |
+| [Asset lifecycle 13](../practice-tests/assets-13.md) | 4 questions | Validate ownership and disposition evidence |
 
 These sets are original, have uneven topic coverage, and do not follow full exam-domain proportions. Scores do not predict an official result.
 
@@ -65,4 +68,4 @@ These sets are original, have uneven topic coverage, and do not follow full exam
 
 Mark errors and correct guesses. Identify the missed requirement or distinction, read the worked explanation, then try a changed example. [Anki import instructions](../anki/README.md) cover the available original card sets.
 
-The exam map uses SY0-701; confirm your registered exam code. The full blueprint still needs more coverage, including suppliers, audits, asset disposal, architecture choices, and automation. Textbook chapter numbers are not exam objective numbers.
+The exam map uses SY0-701; confirm your registered exam code. The full blueprint still needs more coverage, including suppliers, audits, detailed media-specific disposal, architecture choices, and automation. Textbook chapter numbers are not exam objective numbers.
