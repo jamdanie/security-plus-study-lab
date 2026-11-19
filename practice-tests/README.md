@@ -18,6 +18,8 @@ Choose a targeted set for a weak topic or start with Mixed 1. Read each set's sc
 | [Requirement review 12](requirement-review-12.md) | 6 questions | Distinguish the requested outcome | Hidden section in the set |
 | [Asset lifecycle 13](assets-13.md) | 4 questions | Inventory and disposal evidence | Hidden section in the set |
 | [Trust and suppliers 14](trust-and-suppliers-14.md) | 6 questions | Resource access and supplier evidence | Hidden section in the set |
+| [Visual tools 15](visual-tools-15.md) | 4 questions | Encoding and packet evidence | Hidden section in the set |
+| [Operations missions 16](operations-missions-16.md) | 4 questions | Inventory, service checks, rollback | Hidden section in the set |
 
 ## Use the result
 
