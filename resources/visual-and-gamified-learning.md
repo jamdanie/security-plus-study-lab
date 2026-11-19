@@ -16,6 +16,19 @@ If a page of definitions isn't clicking, choose one concept and watch it happen.
 
 Cost and access descriptions were checked November 18, 2026. Recheck provider pages before downloading or buying.
 
+## More ways to see the result
+
+[Hands-on missions](hands-on-missions.md) connects four new activities to questions and cards.
+
+| Tool or format | Activity | What it helps distinguish |
+|---|---|---|
+| [CyberChef](https://gchq.github.io/CyberChef/) | [Supplied practice text](../labs/20-cyberchef-basics/README.md) | Encoding, digest comparison, and confidentiality |
+| [Wireshark](https://www.wireshark.org/) | [Saved sample capture](../labs/21-wireshark-display/README.md) | Filtering a view versus blocking traffic |
+| Spreadsheet or text editor | [Fictional rack records](../labs/22-rack-inventory/README.md) | Inventory evidence versus assumptions |
+| Paper or a simulator you control | [Change rehearsal](../labs/23-change-rehearsal/README.md) | Link indication versus service validation |
+
+CyberChef and Wireshark documentation was checked November 19, 2026; links are provided in the exercises. These activities do not require a paid game.
+
 ## A short session
 
 Choose a question first: “What fails if this switch stops working?” Predict the outcome. Make one change in the simulator or complete one challenge. Record the observed result, explain it, then return to the related guide.
