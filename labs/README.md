@@ -23,6 +23,10 @@ Pick the skill you want to practice. For external training platforms and optiona
 | [17. Supplier review](17-supplier-review/README.md) | Offline | Identify missing evidence for recovery, export, and notification |
 | [18. Visual packet observation](18-packet-tracer-visual/README.md) | Cisco Packet Tracer | Compare a baseline and a disconnected path in Simulation mode |
 | [19. Visual resilience](19-visual-resilience/README.md) | Offline | Find shared dependencies in an alternate-path design |
+| [20. Encoding and hashing](20-cyberchef-basics/README.md) | Browser: CyberChef | Distinguish reversible encoding from digest comparison |
+| [21. Saved packet capture](21-wireshark-display/README.md) | Wireshark | Apply display filters and explain evidence limits |
+| [22. Rack inventory](22-rack-inventory/README.md) | Offline CSV | Reconcile identity, ownership, and location |
+| [23. Change rehearsal](23-change-rehearsal/README.md) | Offline or optional simulator | Validate functions and plan rollback |
 
 ## Before opening the answer
 
