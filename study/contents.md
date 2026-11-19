@@ -76,6 +76,13 @@ Sections use SY0-701 domain groupings for navigation. Topics can span domains; s
 | Compare similarly named paid Steam games | [Data center game guide](../resources/steam-data-center-games.md) |
 | Watch network events step by step | [Packet Tracer exercise](../labs/18-packet-tracer-visual/README.md) |
 | Find a shared failure without software | [Visual resilience exercise](../labs/19-visual-resilience/README.md) |
+| Choose a question-driven activity | [Hands-on missions](../resources/hands-on-missions.md) |
+| See encoding and hashing side by side | [CyberChef exercise](../labs/20-cyberchef-basics/README.md) |
+| Inspect a saved capture | [Wireshark exercise](../labs/21-wireshark-display/README.md) |
+| Reconcile rack records | [Inventory exercise and dataset](../labs/22-rack-inventory/README.md) |
+| Check a change and rollback | [Change rehearsal](../labs/23-change-rehearsal/README.md) |
+| Review tool observations | [Questions 15](../practice-tests/visual-tools-15.md), [cards](../anki/visual-tools.txt) |
+| Review operations decisions | [Questions 16](../practice-tests/operations-missions-16.md), [cards](../anki/operations-missions.txt) |
 | Explain and save your observations | [Hands-on notes](hands-on-notes.md) |
 
 ## Quick reference and study tools
