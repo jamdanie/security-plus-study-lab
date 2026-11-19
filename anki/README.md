@@ -1,6 +1,6 @@
 # Anki cards
 
-These seven public sets contain original questions. Each has three notes with choices, a reasoning cue, the answer, and explanations. They are separate from the private class/textbook deck.
+These nine public sets contain original questions. Each has three notes with choices, a reasoning cue, the answer, and explanations. They are separate from the private class/textbook deck.
 
 ## Choose a topic
 
@@ -13,6 +13,8 @@ These seven public sets contain original questions. Each has three notes with ch
 | Cryptography | [Download source](cryptography-choices.txt) | [Choose a control](../labs/06-choose-cryptographic-controls/README.md) |
 | Baselines | [Download source](secure-baselines.txt) | [Configuration drift](../labs/07-configuration-drift/README.md) |
 | Recovery | [Download source](backup-and-recovery.txt) | [Recovery objectives](../labs/08-recovery-objectives/README.md) |
+| Visual tools | [Download source](visual-tools.txt) | [CyberChef](../labs/20-cyberchef-basics/README.md), [Wireshark](../labs/21-wireshark-display/README.md) |
+| Operations missions | [Download source](operations-missions.txt) | [Rack inventory](../labs/22-rack-inventory/README.md), [change rehearsal](../labs/23-change-rehearsal/README.md) |
 
 ## Import the cards
 
