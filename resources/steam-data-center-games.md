@@ -26,6 +26,12 @@ These are suggested reflection tasks, not claims that every game implements ever
 
 The availability and dependency questions can support partial SY0-701 3.4 study. Asset tracking can support partial 4.2. These are author-selected connections; completing a game does not complete those objectives.
 
+## Pair gameplay with an offline mission
+
+After placing or moving equipment, try the [rack inventory exercise](../labs/22-rack-inventory/README.md). It supplies fictional records so you can practice even if your game has no inventory export. After changing a supported connection, use the [change rehearsal](../labs/23-change-rehearsal/README.md) to explain baseline checks and rollback.
+
+These are companion study activities, not claims of additional game features. [Operations questions](../practice-tests/operations-missions-16.md) and [cards](../anki/operations-missions.txt) check the distinctions afterward.
+
 ## Avoid the wrong takeaway
 
 Two cables do not automatically prove redundancy. They may still depend on one switch, power source, or service. A game animation also does not prove that a connection is encrypted or that permissions are correct.
