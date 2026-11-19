@@ -1,0 +1,6 @@
+record_id,asset_tag,serial,recorded_location,observed_location,owner,status
+1,SW-01,LAB-S100,Rack-A-U10,Rack-A-U10,Network-Team,in-service
+2,SRV-01,LAB-V100,Rack-A-U12,Rack-A-U14,App-Team,in-service
+3,SRV-02,LAB-V200,Rack-B-U12,Rack-B-U12,,in-service
+4,SW-02,LAB-S100,Rack-B-U10,Rack-B-U10,Network-Team,in-service
+5,SRV-03,LAB-V300,Storage-Shelf,Storage-Shelf,App-Team,pending-disposal
