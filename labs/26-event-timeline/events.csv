@@ -1,0 +1,7 @@
+event_id,timestamp_utc,source,account,event,result,change_id
+E1,2026-11-20T14:00:00Z,identity,tech-lab,login,success,
+E2,2026-11-20T14:02:00Z,change-system,tech-lab,change-approved,approved,CHG-LAB-42
+E3,2026-11-20T14:04:00Z,network,tech-lab,service-link-moved,recorded,CHG-LAB-42
+E4,2026-11-20T14:05:00Z,monitor,probe-lab,application-check,failed,
+E5,2026-11-20T14:07:00Z,network,tech-lab,previous-link-restored,recorded,CHG-LAB-42
+E6,2026-11-20T14:09:00Z,monitor,probe-lab,application-check,passed,
