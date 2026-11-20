@@ -13,6 +13,17 @@ Choose the question that is giving you trouble. Finish one activity and explain 
 | Which inventory record needs correction? | [Rack reconciliation](../labs/22-rack-inventory/README.md) | 20 minutes | Evidence and next verification |
 | Is a green link light enough? | [Change rehearsal](../labs/23-change-rehearsal/README.md) | 15 minutes | Functional checks and rollback criterion |
 
+## Next missions
+
+| Question | Activity | What to explain |
+|---|---|---|
+| Do two web servers remove the database dependency? | [Service map](../labs/24-service-dependencies/README.md) | The shared component |
+| Does a permitted port authorize every destination? | [Guest policy](../labs/25-guest-policy/README.md) | The complete rule constraint |
+| Did the change cause the failure? | [Event timeline](../labs/26-event-timeline/README.md) | Recorded sequence versus proven cause |
+| Did the restore meet the actual requirement? | [Recovery validation](../labs/27-recovery-validation/README.md) | RPO and RTO with stated boundaries |
+
+These original offline missions need no purchase. [Questions 17](../practice-tests/data-center-decisions-17.md), [three cards](../anki/data-center-decisions.txt), and [visual lab comparisons](../study/visual-lab-terms.md) support review afterward.
+
 ## Match the format to your setup
 
 No installation: use the offline drawing, CSV, or change review. A browser: try the supplied CyberChef text. Installed tools: use Packet Tracer or a saved capture in Wireshark.
