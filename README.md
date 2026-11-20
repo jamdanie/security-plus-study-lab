@@ -27,7 +27,7 @@ Follow a [guided route through each domain](study/domain-routes.md) when you wan
 
 Read the explanation, predict the worked example, and answer its hidden-answer check. Follow the section's exercise or question link. For an error or correct guess, explain why the nearest alternative does not meet the requirement.
 
-The [study index](study/README.md) now brings all eighteen main guides and sixteen practice sets into one place. Short pages add authentication factors, password storage, federation, certificate trust, data states, web attacks, mobile deployment, and local PowerShell event review.
+The [study index](study/README.md) now brings all eighteen main guides and seventeen practice sets into one place. Short pages add authentication factors, password storage, federation, certificate trust, data states, web attacks, mobile deployment, and local PowerShell event review.
 
 ## Asset tracking and disposal
 
@@ -38,6 +38,8 @@ The [study index](study/README.md) now brings all eighteen main guides and sixte
 [Choose a free lab or optional paid game](resources/visual-and-gamified-learning.md). Watch packets in Packet Tracer, try a beginner challenge, or connect a Steam data center session to availability and asset concepts. Start with the [packet observation exercise](labs/18-packet-tracer-visual/README.md) or the [offline resilience drawing](labs/19-visual-resilience/README.md).
 
 Follow the [hands-on missions](resources/hands-on-missions.md) for CyberChef, saved-capture Wireshark review, rack inventory, and change rehearsal. New [visual tool questions](practice-tests/visual-tools-15.md), [operations questions](practice-tests/operations-missions-16.md), and [Anki sets](anki/README.md) connect doing to review.
+
+The [next missions](resources/hands-on-missions.md#next-missions) cover shared service dependencies, guest policy, event timelines, and recovery validation. Use the [visual result reference](study/visual-lab-terms.md) and [six new questions](practice-tests/data-center-decisions-17.md) to check what each observation establishes.
 
 ## Hands-on practice
 
