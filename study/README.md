@@ -68,12 +68,15 @@ Each guide links its related exercises or questions. Sources appear on the guide
 | [Trust and suppliers 14](../practice-tests/trust-and-suppliers-14.md) | 6 questions | Access policy and supplier evidence |
 | [Visual tools 15](../practice-tests/visual-tools-15.md) | 4 questions | Interpret encoding and packet observations |
 | [Operations missions 16](../practice-tests/operations-missions-16.md) | 4 questions | Inventory evidence and change validation |
+| [Data center decisions 17](../practice-tests/data-center-decisions-17.md) | 6 questions | Dependencies, policy constraints, timelines, and recovery |
 
 These sets are original, have uneven topic coverage, and do not follow full exam-domain proportions. Scores do not predict an official result.
 
 ## Practice by doing
 
 [Hands-on missions](../resources/hands-on-missions.md) connects supplied-text browser work, saved packet analysis, fictional rack records, and change rehearsal. Each has an explanation and a stated evidence limit. Use the linked questions and [new card sets](../anki/README.md) after attempting the activities.
+
+[Next missions](../resources/hands-on-missions.md#next-missions) adds four applied tasks. Use the [visual lab reference](visual-lab-terms.md) to compare what an observation shows with what still needs evidence.
 
 ## Review and return
 
