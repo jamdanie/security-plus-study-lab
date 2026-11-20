@@ -32,6 +32,12 @@ After placing or moving equipment, try the [rack inventory exercise](../labs/22-
 
 These are companion study activities, not claims of additional game features. [Operations questions](../practice-tests/operations-missions-16.md) and [cards](../anki/operations-missions.txt) check the distinctions afterward.
 
+## Go beyond the cable path
+
+Use the [service dependency drawing](../labs/24-service-dependencies/README.md) to distinguish alternate network paths from shared application dependencies. Then try [guest policy review](../labs/25-guest-policy/README.md) and [recovery validation](../labs/27-recovery-validation/README.md). These companion exercises supply their own conditions; they do not claim the game implements firewall policy or database recovery.
+
+[Visual lab comparisons](../study/visual-lab-terms.md) helps keep a game observation separate from a real-world security conclusion. [New review questions](../practice-tests/data-center-decisions-17.md) check the distinction.
+
 ## Avoid the wrong takeaway
 
 Two cables do not automatically prove redundancy. They may still depend on one switch, power source, or service. A game animation also does not prove that a connection is encrypted or that permissions are correct.
