@@ -20,6 +20,7 @@ Choose a targeted set for a weak topic or start with Mixed 1. Read each set's sc
 | [Trust and suppliers 14](trust-and-suppliers-14.md) | 6 questions | Resource access and supplier evidence | Hidden section in the set |
 | [Visual tools 15](visual-tools-15.md) | 4 questions | Encoding and packet evidence | Hidden section in the set |
 | [Operations missions 16](operations-missions-16.md) | 4 questions | Inventory, service checks, rollback | Hidden section in the set |
+| [Data center decisions 17](data-center-decisions-17.md) | 6 questions | Dependencies, guest policy, timeline evidence, recovery | Hidden section in the set |
 
 ## Use the result
 
