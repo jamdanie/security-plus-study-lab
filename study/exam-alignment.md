@@ -80,6 +80,17 @@ This approach is a study method. We do not know the wording of your actual exam.
 
 These are author-assigned alignments to particular skills, not official question classifications. Neither existing set follows the official domain proportions.
 
+## Applied visual mission connections
+
+| Partial objective | Activity | Demonstrate |
+|---|---|---|
+| 3.4 | [Service dependencies](../labs/24-service-dependencies/README.md) | Trace a shared application dependency |
+| 3.2, 4.5 | [Guest policy](../labs/25-guest-policy/README.md) | Apply stated destination and protocol constraints |
+| 4.9 | [Event timeline](../labs/26-event-timeline/README.md) | Separate observation order from root cause |
+| 3.4 | [Recovery validation](../labs/27-recovery-validation/README.md) | Compare usable data point and validated service time with targets |
+
+[Data center decisions 17](../practice-tests/data-center-decisions-17.md) labels question-level connections. These offline activities do not establish practical configuration proficiency or full objective coverage.
+
 ## Coverage gaps and next priorities
 
 The repository is strongest in introductory operations exercises, but it is not complete even in Domain 4.
