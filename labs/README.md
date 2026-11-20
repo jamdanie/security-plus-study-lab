@@ -27,6 +27,10 @@ Pick the skill you want to practice. For external training platforms and optiona
 | [21. Saved packet capture](21-wireshark-display/README.md) | Wireshark | Apply display filters and explain evidence limits |
 | [22. Rack inventory](22-rack-inventory/README.md) | Offline CSV | Reconcile identity, ownership, and location |
 | [23. Change rehearsal](23-change-rehearsal/README.md) | Offline or optional simulator | Validate functions and plan rollback |
+| [24. Service dependencies](24-service-dependencies/README.md) | Offline diagram | Separate path redundancy from service availability |
+| [25. Guest policy](25-guest-policy/README.md) | Offline table | Apply destination and protocol constraints |
+| [26. Event timeline](26-event-timeline/README.md) | Offline CSV | Correlate records without inventing root cause |
+| [27. Recovery validation](27-recovery-validation/README.md) | Offline calculations | Measure data-point and validated-service objectives |
 
 ## Before opening the answer
 
