@@ -83,6 +83,12 @@ Sections use SY0-701 domain groupings for navigation. Topics can span domains; s
 | Check a change and rollback | [Change rehearsal](../labs/23-change-rehearsal/README.md) |
 | Review tool observations | [Questions 15](../practice-tests/visual-tools-15.md), [cards](../anki/visual-tools.txt) |
 | Review operations decisions | [Questions 16](../practice-tests/operations-missions-16.md), [cards](../anki/operations-missions.txt) |
+| Trace shared service dependencies | [Exercise 24](../labs/24-service-dependencies/README.md) |
+| Apply a guest-network policy | [Exercise 25](../labs/25-guest-policy/README.md) |
+| Correlate supplied event records | [Exercise 26 and CSV](../labs/26-event-timeline/README.md) |
+| Validate recovery objectives | [Exercise 27](../labs/27-recovery-validation/README.md) |
+| Check your interpretation | [Questions 17](../practice-tests/data-center-decisions-17.md), [cards](../anki/data-center-decisions.txt) |
+| Compare observation and conclusion | [Visual lab reference](visual-lab-terms.md) |
 | Explain and save your observations | [Hands-on notes](hands-on-notes.md) |
 
 ## Quick reference and study tools
