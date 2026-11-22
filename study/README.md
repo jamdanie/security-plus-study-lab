@@ -14,6 +14,7 @@ Choose a guide when you need the broader explanation. Use a short concept page w
 
 | Topic | How to use it |
 |---|---|
+| [DoS and DDoS](../study-guides/denial-of-service.md) | Distinguish distribution, reflection, and amplification |
 | [Zero trust](../study-guides/zero-trust.md) | Make a resource-specific access decision |
 | [Third-party risk](../study-guides/third-party-risk.md) | Match supplier evidence to requirements |
 | [Asset lifecycle](../study-guides/asset-lifecycle.md) | Ownership, inventory, and disposition decisions |
@@ -69,6 +70,7 @@ Each guide links its related exercises or questions. Sources appear on the guide
 | [Visual tools 15](../practice-tests/visual-tools-15.md) | 4 questions | Interpret encoding and packet observations |
 | [Operations missions 16](../practice-tests/operations-missions-16.md) | 4 questions | Inventory evidence and change validation |
 | [Data center decisions 17](../practice-tests/data-center-decisions-17.md) | 6 questions | Dependencies, policy constraints, timelines, and recovery |
+| [Availability and access 18](../practice-tests/availability-and-access-18.md) | 6 questions | Attack mechanisms, visitor policy, tabletop follow-up |
 
 These sets are original, have uneven topic coverage, and do not follow full exam-domain proportions. Scores do not predict an official result.
 
