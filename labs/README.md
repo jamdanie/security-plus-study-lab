@@ -31,6 +31,9 @@ Pick the skill you want to practice. For external training platforms and optiona
 | [25. Guest policy](25-guest-policy/README.md) | Offline table | Apply destination and protocol constraints |
 | [26. Event timeline](26-event-timeline/README.md) | Offline CSV | Correlate records without inventing root cause |
 | [27. Recovery validation](27-recovery-validation/README.md) | Offline calculations | Measure data-point and validated-service objectives |
+| [28. Reflection evidence](28-reflection-evidence/README.md) | Offline diagram and CSV | Separate reflection, amplification, and measured sample volume |
+| [29. Visitor access](29-visitor-access/README.md) | Offline | Apply escort policy without assuming intent |
+| [30. Availability tabletop](30-availability-tabletop/README.md) | Discussion | Coordinate response, validation, and follow-up |
 
 ## Before opening the answer
 
