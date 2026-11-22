@@ -91,6 +91,16 @@ These are author-assigned alignments to particular skills, not official question
 
 [Data center decisions 17](../practice-tests/data-center-decisions-17.md) labels question-level connections. These offline activities do not establish practical configuration proficiency or full objective coverage.
 
+## Availability and physical access practice
+
+| Partial objective | Material | Demonstrate |
+|---|---|---|
+| 2.4 | [DoS distinctions](../study-guides/denial-of-service.md), [reflection sample](../labs/28-reflection-evidence/README.md) | Identify overlapping mechanisms from stated evidence |
+| 1.2 | [Visitor access](../labs/29-visitor-access/README.md) | Apply physical entry and escort conditions |
+| 4.8 | [Availability tabletop](../labs/30-availability-tabletop/README.md) | Explain roles, evidence needs, and follow-up |
+
+[Questions 18](../practice-tests/availability-and-access-18.md) labels its question connections. These original discussion and data tasks do not establish live incident response proficiency.
+
 ## Coverage gaps and next priorities
 
 The repository is strongest in introductory operations exercises, but it is not complete even in Domain 4.
