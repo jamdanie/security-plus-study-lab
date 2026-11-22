@@ -31,6 +31,7 @@ Sections use SY0-701 domain groupings for navigation. Topics can span domains; s
 
 | Topic | Read | Try | Questions | Cards |
 |---|---|---|---|---|
+| DoS, DDoS, reflection, amplification | [Explanation](../study-guides/denial-of-service.md) | [Exercise](../labs/28-reflection-evidence/README.md) | [Practice](../practice-tests/availability-and-access-18.md) | [Anki](../anki/availability-and-access.txt) |
 | Phishing | [Explanation](../study-guides/phishing.md) | [Exercise](../labs/09-message-triage/README.md) | [Practice](../practice-tests/mixed-01.md) | — |
 | Attack evidence and poisoning | [Explanation](../study-guides/attack-patterns.md) | [Exercise](../labs/13-attack-evidence/README.md) | [Practice](../practice-tests/attack-patterns-08.md) | — |
 | Web attack distinctions | [Explanation](../concepts/web-attack-distinctions.md) | — | [Practice](../practice-tests/concept-review-10.md) | — |
@@ -89,6 +90,10 @@ Sections use SY0-701 domain groupings for navigation. Topics can span domains; s
 | Validate recovery objectives | [Exercise 27](../labs/27-recovery-validation/README.md) |
 | Check your interpretation | [Questions 17](../practice-tests/data-center-decisions-17.md), [cards](../anki/data-center-decisions.txt) |
 | Compare observation and conclusion | [Visual lab reference](visual-lab-terms.md) |
+| Trace reflection and response size | [Exercise 28 and CSV](../labs/28-reflection-evidence/README.md) |
+| Review physical visitor access | [Exercise 29](../labs/29-visitor-access/README.md) |
+| Discuss availability response decisions | [Exercise 30](../labs/30-availability-tabletop/README.md), [free resource](../resources/tabletop-learning.md) |
+| Review availability and access | [Questions 18](../practice-tests/availability-and-access-18.md), [cards](../anki/availability-and-access.txt) |
 | Explain and save your observations | [Hands-on notes](hands-on-notes.md) |
 
 ## Quick reference and study tools
