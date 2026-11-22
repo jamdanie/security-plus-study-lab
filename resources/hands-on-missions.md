@@ -24,6 +24,16 @@ Choose the question that is giving you trouble. Finish one activity and explain 
 
 These original offline missions need no purchase. [Questions 17](../practice-tests/data-center-decisions-17.md), [three cards](../anki/data-center-decisions.txt), and [visual lab comparisons](../study/visual-lab-terms.md) support review afterward.
 
+## Availability and access missions
+
+| Question | Activity | What to keep |
+|---|---|---|
+| Can reflection and amplification apply together? | [Diagram and sample data](../labs/28-reflection-evidence/README.md) | Mechanism, ratio, and evidence limits |
+| Does a visitor badge permit entry alone? | [Access review](../labs/29-visitor-access/README.md) | Policy condition and next action |
+| Who acts when external access fails? | [Availability tabletop](../labs/30-availability-tabletop/README.md) | Decisions, role responsibilities, and follow-up |
+
+Use [questions 18](../practice-tests/availability-and-access-18.md), [three cards](../anki/availability-and-access.txt), and [tabletop resources](tabletop-learning.md) after the activity. All three missions work without a game purchase.
+
 ## Match the format to your setup
 
 No installation: use the offline drawing, CSV, or change review. A browser: try the supplied CyberChef text. Installed tools: use Packet Tracer or a saved capture in Wireshark.
