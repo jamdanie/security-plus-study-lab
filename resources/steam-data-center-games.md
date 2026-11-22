@@ -38,6 +38,12 @@ Use the [service dependency drawing](../labs/24-service-dependencies/README.md) 
 
 [Visual lab comparisons](../study/visual-lab-terms.md) helps keep a game observation separate from a real-world security conclusion. [New review questions](../practice-tests/data-center-decisions-17.md) check the distinction.
 
+## Add a response discussion
+
+Pause a supported game failure and discuss what each role would check next. The [availability tabletop](../labs/30-availability-tabletop/README.md) supplies fictional updates if you have no game. The [visitor-access exercise](../labs/29-visitor-access/README.md) supplies its own facility policy.
+
+Use the [reflection exercise](../labs/28-reflection-evidence/README.md) to study a network attack through diagrams and supplied data. These activities do not claim either Steam title simulates DDoS or visitor security. [Free tabletop resources](tabletop-learning.md) explains discussion-based practice.
+
 ## Avoid the wrong takeaway
 
 Two cables do not automatically prove redundancy. They may still depend on one switch, power source, or service. A game animation also does not prove that a connection is encrypted or that permissions are correct.
