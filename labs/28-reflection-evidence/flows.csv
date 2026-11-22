@@ -1,0 +1,4 @@
+flow_id,observation_point,source_role,destination_role,request_bytes,response_bytes,source_spoofing_confirmed
+F1,reflector-A,requester-claiming-victim,reflector-A,60,600,true
+F2,reflector-B,requester-claiming-victim,reflector-B,60,600,true
+F3,reflector-C,requester-claiming-victim,reflector-C,60,600,true
