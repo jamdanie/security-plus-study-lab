@@ -34,6 +34,16 @@ These original offline missions need no purchase. [Questions 17](../practice-tes
 
 Use [questions 18](../practice-tests/availability-and-access-18.md), [three cards](../anki/availability-and-access.txt), and [tabletop resources](tabletop-learning.md) after the activity. All three missions work without a game purchase.
 
+## Permissions and data missions
+
+| Question | Activity | What to keep |
+|---|---|---|
+| Does approval settle scope and expiry? | [Temporary grant review](../labs/31-temporary-access/README.md) | Each condition checked separately |
+| Can the same account delete every copy? | [Backup exposure](../labs/32-backup-exposure/README.md) | Reachability map and restore evidence |
+| Does renaming change handling rules? | [Data policy](../labs/33-data-handling/README.md) | Permitted destination and reason |
+
+[Focused game session challenges](game-session-challenges.md) connects these offline tasks to visual study. Use [questions 19](../practice-tests/permissions-and-data-19.md) and [cards](../anki/permissions-and-data.txt) after attempting them.
+
 ## Match the format to your setup
 
 No installation: use the offline drawing, CSV, or change review. A browser: try the supplied CyberChef text. Installed tools: use Packet Tracer or a saved capture in Wireshark.
