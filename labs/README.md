@@ -34,6 +34,9 @@ Pick the skill you want to practice. For external training platforms and optiona
 | [28. Reflection evidence](28-reflection-evidence/README.md) | Offline diagram and CSV | Separate reflection, amplification, and measured sample volume |
 | [29. Visitor access](29-visitor-access/README.md) | Offline | Apply escort policy without assuming intent |
 | [30. Availability tabletop](30-availability-tabletop/README.md) | Discussion | Coordinate response, validation, and follow-up |
+| [31. Temporary access](31-temporary-access/README.md) | Offline CSV | Review scope, enforced expiry, and independent approval |
+| [32. Backup exposure](32-backup-exposure/README.md) | Offline | Separate deletion reachability from recoverability |
+| [33. Data handling](33-data-handling/README.md) | Offline policy | Apply classification and sharing-destination constraints |
 
 ## Before opening the answer
 
