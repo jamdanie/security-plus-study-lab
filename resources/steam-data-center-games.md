@@ -44,6 +44,12 @@ Pause a supported game failure and discuss what each role would check next. The 
 
 Use the [reflection exercise](../labs/28-reflection-evidence/README.md) to study a network attack through diagrams and supplied data. These activities do not claim either Steam title simulates DDoS or visitor security. [Free tabletop resources](tabletop-learning.md) explains discussion-based practice.
 
+## Give the next session a goal
+
+Use the [focused challenge guide](game-session-challenges.md) to connect a visual session with access, backup, and handling decisions. The supplied [grant records](../labs/31-temporary-access/README.md), [backup comparison](../labs/32-backup-exposure/README.md), and [data policy](../labs/33-data-handling/README.md) work offline when a game does not model these features.
+
+These are companion exercises, not new claims about either product. Save the game observation separately from the fictional policy decision.
+
 ## Avoid the wrong takeaway
 
 Two cables do not automatically prove redundancy. They may still depend on one switch, power source, or service. A game animation also does not prove that a connection is encrypted or that permissions are correct.
