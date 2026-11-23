@@ -1,0 +1,5 @@
+grant_id,account,permission,scope,expires_utc,approver,current_task
+G1,tech-a,restart-service,lab-web,2026-11-23T18:00:00Z,manager-b,restart-lab-web
+G2,tech-c,all-admin,all-lab-systems,never,manager-b,restart-lab-web
+G3,tech-d,restart-service,lab-web,2026-11-23T18:00:00Z,tech-d,restart-lab-web
+G4,tech-e,restart-service,lab-web,2026-11-23T16:00:00Z,manager-b,restart-lab-web
