@@ -49,6 +49,7 @@ Sections use SY0-701 domain groupings for navigation. Topics can span domains; s
 | Topic | Read | Try | Questions | Cards |
 |---|---|---|---|---|
 | Asset lifecycle | [Explanation](../study-guides/asset-lifecycle.md) | [Exercise](../labs/15-asset-disposition/README.md) | [Practice](../practice-tests/assets-13.md) | — |
+| Privilege scope, time, and approval | [Explanation](../study-guides/privilege-decisions.md) | [Exercise](../labs/31-temporary-access/README.md) | [Practice](../practice-tests/permissions-and-data-19.md) | [Anki](../anki/permissions-and-data.txt) |
 | Identity and permissions | [Explanation](../study-guides/identity-and-access.md) | [Exercise](../labs/02-access-review/README.md) | [Practice](../practice-tests/applied-review-04.md) | [Anki](../anki/identity-and-access.txt) |
 | Multifactor authentication | [Explanation](../concepts/multifactor-authentication.md) | — | [Practice](../practice-tests/concept-review-10.md) | — |
 | Single sign-on | [Explanation](../concepts/single-sign-on.md) | — | [Practice](../practice-tests/concept-review-10.md) | — |
@@ -94,6 +95,11 @@ Sections use SY0-701 domain groupings for navigation. Topics can span domains; s
 | Review physical visitor access | [Exercise 29](../labs/29-visitor-access/README.md) |
 | Discuss availability response decisions | [Exercise 30](../labs/30-availability-tabletop/README.md), [free resource](../resources/tabletop-learning.md) |
 | Review availability and access | [Questions 18](../practice-tests/availability-and-access-18.md), [cards](../anki/availability-and-access.txt) |
+| Review temporary grants | [Exercise 31 and CSV](../labs/31-temporary-access/README.md) |
+| Compare backup exposure and restore evidence | [Exercise 32](../labs/32-backup-exposure/README.md) |
+| Apply a data-handling policy | [Exercise 33](../labs/33-data-handling/README.md) |
+| Give gameplay a study goal | [Session challenges](../resources/game-session-challenges.md) |
+| Review permissions and data | [Questions 19](../practice-tests/permissions-and-data-19.md), [cards](../anki/permissions-and-data.txt) |
 | Explain and save your observations | [Hands-on notes](hands-on-notes.md) |
 
 ## Quick reference and study tools
