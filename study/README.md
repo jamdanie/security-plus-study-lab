@@ -14,6 +14,7 @@ Choose a guide when you need the broader explanation. Use a short concept page w
 
 | Topic | How to use it |
 |---|---|
+| [Privilege decisions](../study-guides/privilege-decisions.md) | Compare scope, expiry, and independent approval |
 | [DoS and DDoS](../study-guides/denial-of-service.md) | Distinguish distribution, reflection, and amplification |
 | [Zero trust](../study-guides/zero-trust.md) | Make a resource-specific access decision |
 | [Third-party risk](../study-guides/third-party-risk.md) | Match supplier evidence to requirements |
@@ -71,6 +72,7 @@ Each guide links its related exercises or questions. Sources appear on the guide
 | [Operations missions 16](../practice-tests/operations-missions-16.md) | 4 questions | Inventory evidence and change validation |
 | [Data center decisions 17](../practice-tests/data-center-decisions-17.md) | 6 questions | Dependencies, policy constraints, timelines, and recovery |
 | [Availability and access 18](../practice-tests/availability-and-access-18.md) | 6 questions | Attack mechanisms, visitor policy, tabletop follow-up |
+| [Permissions and data 19](../practice-tests/permissions-and-data-19.md) | 6 questions | Temporary grants, backup exposure, handling rules |
 
 These sets are original, have uneven topic coverage, and do not follow full exam-domain proportions. Scores do not predict an official result.
 
@@ -79,6 +81,8 @@ These sets are original, have uneven topic coverage, and do not follow full exam
 [Hands-on missions](../resources/hands-on-missions.md) connects supplied-text browser work, saved packet analysis, fictional rack records, and change rehearsal. Each has an explanation and a stated evidence limit. Use the linked questions and [new card sets](../anki/README.md) after attempting the activities.
 
 [Next missions](../resources/hands-on-missions.md#next-missions) adds four applied tasks. Use the [visual lab reference](visual-lab-terms.md) to compare what an observation shows with what still needs evidence.
+
+[Focused visual session challenges](../resources/game-session-challenges.md) add three offline tasks for permissions and data decisions. These support partial SY0-701 4.6, 3.4, and 3.3 respectively; they do not establish full objective coverage.
 
 ## Review and return
 
