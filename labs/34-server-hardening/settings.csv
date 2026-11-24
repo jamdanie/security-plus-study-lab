@@ -1,0 +1,6 @@
+setting,required,observed
+shared_factory_password,disabled,enabled
+remote_admin_source,management-zone,any-zone
+unused_demo_service,disabled,enabled
+security_logging,enabled,enabled
+approved_time_source,configured,not-configured
