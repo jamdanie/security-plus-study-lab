@@ -23,6 +23,7 @@ Choose a targeted set for a weak topic or start with Mixed 1. Read each set's sc
 | [Data center decisions 17](data-center-decisions-17.md) | 6 questions | Dependencies, guest policy, timeline evidence, recovery | Hidden section in the set |
 | [Availability and access 18](availability-and-access-18.md) | 6 questions | DoS labels, visitor policy, tabletop follow-up | Hidden section in the set |
 | [Permissions and data 19](permissions-and-data-19.md) | 6 questions | Privilege scope, backup exposure, and classification | Hidden section in the set |
+| [Rack readiness 20](rack-readiness-20.md) | 6 questions | Baselines, effective patches, and alert tradeoffs | Hidden section in the set |
 
 ## Use the result
 
