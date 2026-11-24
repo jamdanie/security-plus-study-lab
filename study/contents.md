@@ -100,6 +100,11 @@ Sections use SY0-701 domain groupings for navigation. Topics can span domains; s
 | Apply a data-handling policy | [Exercise 33](../labs/33-data-handling/README.md) |
 | Give gameplay a study goal | [Session challenges](../resources/game-session-challenges.md) |
 | Review permissions and data | [Questions 19](../practice-tests/permissions-and-data-19.md), [cards](../anki/permissions-and-data.txt) |
+| Check server release settings | [Exercise 34 and CSV](../labs/34-server-hardening/README.md) |
+| Verify a patch result | [Exercise 35](../labs/35-patch-validation/README.md) |
+| Compare alert tradeoffs | [Exercise 36](../labs/36-alert-tradeoffs/README.md) |
+| Follow a fictional rack campaign | [Mini campaign](../resources/rack-security-campaign.md) |
+| Review rack readiness | [Questions 20](../practice-tests/rack-readiness-20.md), [cards](../anki/rack-readiness.txt) |
 | Explain and save your observations | [Hands-on notes](hands-on-notes.md) |
 
 ## Quick reference and study tools
