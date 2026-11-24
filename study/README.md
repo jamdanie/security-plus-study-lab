@@ -73,6 +73,7 @@ Each guide links its related exercises or questions. Sources appear on the guide
 | [Data center decisions 17](../practice-tests/data-center-decisions-17.md) | 6 questions | Dependencies, policy constraints, timelines, and recovery |
 | [Availability and access 18](../practice-tests/availability-and-access-18.md) | 6 questions | Attack mechanisms, visitor policy, tabletop follow-up |
 | [Permissions and data 19](../practice-tests/permissions-and-data-19.md) | 6 questions | Temporary grants, backup exposure, handling rules |
+| [Rack readiness 20](../practice-tests/rack-readiness-20.md) | 6 questions | Hardening, patch validation, and alert interpretation |
 
 These sets are original, have uneven topic coverage, and do not follow full exam-domain proportions. Scores do not predict an official result.
 
@@ -83,6 +84,8 @@ These sets are original, have uneven topic coverage, and do not follow full exam
 [Next missions](../resources/hands-on-missions.md#next-missions) adds four applied tasks. Use the [visual lab reference](visual-lab-terms.md) to compare what an observation shows with what still needs evidence.
 
 [Focused visual session challenges](../resources/game-session-challenges.md) add three offline tasks for permissions and data decisions. These support partial SY0-701 4.6, 3.4, and 3.3 respectively; they do not establish full objective coverage.
+
+The [rack security campaign](../resources/rack-security-campaign.md) adds baseline review, effective-patch verification, and alert comparisons. Connections are partial SY0-701 4.1, 4.3, and 4.4; the campaign is a learning sequence, not a live security assessment.
 
 ## Review and return
 
