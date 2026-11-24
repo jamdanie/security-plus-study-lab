@@ -37,6 +37,9 @@ Pick the skill you want to practice. For external training platforms and optiona
 | [31. Temporary access](31-temporary-access/README.md) | Offline CSV | Review scope, enforced expiry, and independent approval |
 | [32. Backup exposure](32-backup-exposure/README.md) | Offline | Separate deletion reachability from recoverability |
 | [33. Data handling](33-data-handling/README.md) | Offline policy | Apply classification and sharing-destination constraints |
+| [34. Server hardening](34-server-hardening/README.md) | Offline CSV | Compare approved settings and propose behavior checks |
+| [35. Patch validation](35-patch-validation/README.md) | Offline evidence | Separate installed package from effective running state |
+| [36. Alert tradeoffs](36-alert-tradeoffs/README.md) | Offline calculations | Count false alerts and missed malicious events |
 
 ## Before opening the answer
 
