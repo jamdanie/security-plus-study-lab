@@ -1,6 +1,6 @@
 # Anki cards
 
-These twelve public sets contain original questions. Each has three notes with choices, a reasoning cue, the answer, and explanations. They are separate from the private class/textbook deck.
+These thirteen public sets contain original questions. Each has three notes with choices, a reasoning cue, the answer, and explanations. They are separate from the private class/textbook deck.
 
 ## Choose a topic
 
@@ -18,6 +18,7 @@ These twelve public sets contain original questions. Each has three notes with c
 | Data center decisions | [Download source](data-center-decisions.txt) | [Service dependency](../labs/24-service-dependencies/README.md), [timeline](../labs/26-event-timeline/README.md), [recovery](../labs/27-recovery-validation/README.md) |
 | Availability and access | [Download source](availability-and-access.txt) | [Reflection](../labs/28-reflection-evidence/README.md), [visitor access](../labs/29-visitor-access/README.md), [tabletop](../labs/30-availability-tabletop/README.md) |
 | Permissions and data | [Download source](permissions-and-data.txt) | [Temporary grants](../labs/31-temporary-access/README.md), [backup exposure](../labs/32-backup-exposure/README.md), [data handling](../labs/33-data-handling/README.md) |
+| Rack readiness | [Download source](rack-readiness.txt) | [Hardening](../labs/34-server-hardening/README.md), [patch validation](../labs/35-patch-validation/README.md), [alert tradeoffs](../labs/36-alert-tradeoffs/README.md) |
 
 ## Import the cards
 
