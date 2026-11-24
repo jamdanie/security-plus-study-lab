@@ -44,6 +44,16 @@ Use [questions 18](../practice-tests/availability-and-access-18.md), [three card
 
 [Focused game session challenges](game-session-challenges.md) connects these offline tasks to visual study. Use [questions 19](../practice-tests/permissions-and-data-19.md) and [cards](../anki/permissions-and-data.txt) after attempting them.
 
+## Rack readiness missions
+
+| Question | Activity | What to keep |
+|---|---|---|
+| Does the server meet the release baseline? | [Hardening review](../labs/34-server-hardening/README.md) | Mismatch and verification plan |
+| Is the patched version actually running? | [Patch evidence](../labs/35-patch-validation/README.md) | Unresolved state and next check |
+| Does less alert noise mean better detection? | [Alert comparison](../labs/36-alert-tradeoffs/README.md) | Detection and false-alert counts |
+
+The [rack security campaign](rack-security-campaign.md) joins these with earlier inventory, access, and recovery tasks. Try [questions 20](../practice-tests/rack-readiness-20.md) and [cards](../anki/rack-readiness.txt) after the activities.
+
 ## Match the format to your setup
 
 No installation: use the offline drawing, CSV, or change review. A browser: try the supplied CyberChef text. Installed tools: use Packet Tracer or a saved capture in Wireshark.
