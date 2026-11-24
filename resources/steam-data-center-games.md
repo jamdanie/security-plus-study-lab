@@ -50,6 +50,12 @@ Use the [focused challenge guide](game-session-challenges.md) to connect a visua
 
 These are companion exercises, not new claims about either product. Save the game observation separately from the fictional policy decision.
 
+## Try a rack security campaign
+
+The [mini campaign](rack-security-campaign.md) connects a fictional layout to hardening, patch validation, alert review, and recovery. Use the game only for behavior it supports; use our supplied records for features it does not model.
+
+[Hardening settings](../labs/34-server-hardening/README.md), [patch evidence](../labs/35-patch-validation/README.md), and [alert comparisons](../labs/36-alert-tradeoffs/README.md) are standalone offline activities. Neither game's store description is evidence that these security mechanisms are implemented.
+
 ## Avoid the wrong takeaway
 
 Two cables do not automatically prove redundancy. They may still depend on one switch, power source, or service. A game animation also does not prove that a connection is encrypted or that permissions are correct.
