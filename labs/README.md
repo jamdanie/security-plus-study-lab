@@ -1,6 +1,6 @@
 # Exercise directory
 
-Pick the skill you want to practice. For external training platforms and optional paid games, use the [visual learning directory](../resources/visual-and-gamified-learning.md). Offline exercises use fictional scenarios; they do not require a live target or paid account. The local command exercises list their own requirements.
+Pick the skill you want to practice. The [mission selector](../resources/mission-selector.md) routes common questions to an exercise and review set. For external training platforms and optional paid games, use the [visual learning directory](../resources/visual-and-gamified-learning.md). Offline exercises use fictional scenarios; they do not require a live target or paid account. The local command exercises list their own requirements.
 
 | Exercise | Environment | What to demonstrate |
 |---|---|---|
@@ -40,6 +40,8 @@ Pick the skill you want to practice. For external training platforms and optiona
 | [34. Server hardening](34-server-hardening/README.md) | Offline CSV | Compare approved settings and propose behavior checks |
 | [35. Patch validation](35-patch-validation/README.md) | Offline evidence | Separate installed package from effective running state |
 | [36. Alert tradeoffs](36-alert-tradeoffs/README.md) | Offline calculations | Count false alerts and missed malicious events |
+| [37. Layered controls](37-layered-controls/README.md) | Offline | Trace which control enforces which condition |
+| [38. Exception review](38-exception-review/README.md) | Offline CSV | Check approval, owner, expiry, and next action |
 
 ## Before opening the answer
 
