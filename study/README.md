@@ -74,6 +74,7 @@ Each guide links its related exercises or questions. Sources appear on the guide
 | [Availability and access 18](../practice-tests/availability-and-access-18.md) | 6 questions | Attack mechanisms, visitor policy, tabletop follow-up |
 | [Permissions and data 19](../practice-tests/permissions-and-data-19.md) | 6 questions | Temporary grants, backup exposure, handling rules |
 | [Rack readiness 20](../practice-tests/rack-readiness-20.md) | 6 questions | Hardening, patch validation, and alert interpretation |
+| [Layers and exceptions 21](../practice-tests/layers-and-exceptions-21.md) | 6 questions | Control boundaries and approval conditions |
 
 These sets are original, have uneven topic coverage, and do not follow full exam-domain proportions. Scores do not predict an official result.
 
@@ -86,6 +87,8 @@ These sets are original, have uneven topic coverage, and do not follow full exam
 [Focused visual session challenges](../resources/game-session-challenges.md) add three offline tasks for permissions and data decisions. These support partial SY0-701 4.6, 3.4, and 3.3 respectively; they do not establish full objective coverage.
 
 The [rack security campaign](../resources/rack-security-campaign.md) adds baseline review, effective-patch verification, and alert comparisons. Connections are partial SY0-701 4.1, 4.3, and 4.4; the campaign is a learning sequence, not a live security assessment.
+
+Use the [mission selector](../resources/mission-selector.md) for a short route from a confusing question to practice. New [layered-control](../labs/37-layered-controls/README.md) and [exception](../labs/38-exception-review/README.md) activities support partial SY0-701 2.5 and 5.2/1.3 study.
 
 ## Review and return
 
