@@ -10,6 +10,8 @@ I'm building this project while studying for CompTIA Security+. It connects expl
 
 Follow a [guided route through each domain](study/domain-routes.md) when you want a reading, exercise, and review sequence.
 
+Use the [question-based mission selector](resources/mission-selector.md) to choose a short activity without scrolling through the full exercise list.
+
 ## Pick a starting point
 
 | What you need | Open |
@@ -27,7 +29,7 @@ Follow a [guided route through each domain](study/domain-routes.md) when you wan
 
 Read the explanation, predict the worked example, and answer its hidden-answer check. Follow the section's exercise or question link. For an error or correct guess, explain why the nearest alternative does not meet the requirement.
 
-The [study index](study/README.md) now brings all twenty main guides and twenty practice sets into one place. Short pages add authentication factors, password storage, federation, certificate trust, data states, web attacks, mobile deployment, and local PowerShell event review.
+The [study index](study/README.md) now brings all twenty main guides and twenty-one practice sets into one place. Short pages add authentication factors, password storage, federation, certificate trust, data states, web attacks, mobile deployment, and local PowerShell event review.
 
 ## Asset tracking and disposal
 
@@ -46,6 +48,8 @@ Try the [DoS and DDoS explanation](study-guides/denial-of-service.md), [reflecti
 The [focused session challenges](resources/game-session-challenges.md) add temporary access, backup exposure, and data-handling decisions. Start with the [privilege guide](study-guides/privilege-decisions.md), then use [questions 19](practice-tests/permissions-and-data-19.md) to review the distinctions.
 
 Work through the [rack security mini campaign](resources/rack-security-campaign.md) for inventory, access, server hardening, patch verification, alert review, and recovery. [Questions 20](practice-tests/rack-readiness-20.md) and [cards](anki/rack-readiness.txt) connect the new missions to review.
+
+Try [layered controls](labs/37-layered-controls/README.md) and [exception review](labs/38-exception-review/README.md), then answer [questions 21](practice-tests/layers-and-exceptions-21.md). Both work offline with original supplied conditions.
 
 ## Hands-on practice
 
