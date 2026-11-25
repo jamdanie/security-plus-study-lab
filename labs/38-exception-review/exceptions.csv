@@ -1,0 +1,4 @@
+exception_id,asset,required_setting,temporary_setting,owner,expires_utc,review_status
+EX1,lab-a,admin-from-management-zone,admin-from-staff-zone,Network-Team,2026-11-25T18:00:00Z,approved
+EX2,lab-b,admin-from-management-zone,admin-from-any-zone,Network-Team,2026-11-24T18:00:00Z,approved
+EX3,lab-c,admin-from-management-zone,admin-from-staff-zone,,2026-11-26T18:00:00Z,pending
