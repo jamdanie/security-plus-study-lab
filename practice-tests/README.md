@@ -24,6 +24,7 @@ Choose a targeted set for a weak topic or start with Mixed 1. Read each set's sc
 | [Availability and access 18](availability-and-access-18.md) | 6 questions | DoS labels, visitor policy, tabletop follow-up | Hidden section in the set |
 | [Permissions and data 19](permissions-and-data-19.md) | 6 questions | Privilege scope, backup exposure, and classification | Hidden section in the set |
 | [Rack readiness 20](rack-readiness-20.md) | 6 questions | Baselines, effective patches, and alert tradeoffs | Hidden section in the set |
+| [Layers and exceptions 21](layers-and-exceptions-21.md) | 6 questions | Control boundaries and expiring decisions | Hidden section in the set |
 
 ## Use the result
 
