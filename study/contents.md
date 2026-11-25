@@ -2,7 +2,7 @@
 
 Choose a topic below, then click its explanation, exercise, questions, or available card file. A dash means no dedicated item is linked here, not that it is unnecessary.
 
-Prefer a sequence? Follow the [domain study routes](domain-routes.md).
+Prefer a sequence? Follow the [domain study routes](domain-routes.md). For a specific question, use the [mission selector](../resources/mission-selector.md).
 
 ## Jump to a section
 
@@ -105,6 +105,10 @@ Sections use SY0-701 domain groupings for navigation. Topics can span domains; s
 | Compare alert tradeoffs | [Exercise 36](../labs/36-alert-tradeoffs/README.md) |
 | Follow a fictional rack campaign | [Mini campaign](../resources/rack-security-campaign.md) |
 | Review rack readiness | [Questions 20](../practice-tests/rack-readiness-20.md), [cards](../anki/rack-readiness.txt) |
+| Trace a failed control layer | [Exercise 37](../labs/37-layered-controls/README.md) |
+| Review expiring exceptions | [Exercise 38 and CSV](../labs/38-exception-review/README.md) |
+| Choose a mission by your question | [Mission selector](../resources/mission-selector.md) |
+| Review layers and exceptions | [Questions 21](../practice-tests/layers-and-exceptions-21.md), [cards](../anki/layers-and-exceptions.txt) |
 | Explain and save your observations | [Hands-on notes](hands-on-notes.md) |
 
 ## Quick reference and study tools
