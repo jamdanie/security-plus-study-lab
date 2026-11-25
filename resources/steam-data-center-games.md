@@ -56,6 +56,12 @@ The [mini campaign](rack-security-campaign.md) connects a fictional layout to ha
 
 [Hardening settings](../labs/34-server-hardening/README.md), [patch evidence](../labs/35-patch-validation/README.md), and [alert comparisons](../labs/36-alert-tradeoffs/README.md) are standalone offline activities. Neither game's store description is evidence that these security mechanisms are implemented.
 
+## Choose the concept before playing
+
+The [mission selector](mission-selector.md) helps pick a question before opening a game. [Layered controls](../labs/37-layered-controls/README.md) asks what a surviving control actually enforces. [Exception review](../labs/38-exception-review/README.md) uses supplied policy records when a simulator has no exception workflow.
+
+Both are original offline companion tasks. Do not infer application authorization or risk approval from a game's visible traffic or score.
+
 ## Avoid the wrong takeaway
 
 Two cables do not automatically prove redundancy. They may still depend on one switch, power source, or service. A game animation also does not prove that a connection is encrypted or that permissions are correct.
