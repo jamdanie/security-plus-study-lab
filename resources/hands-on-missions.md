@@ -2,7 +2,7 @@
 
 [Tool directory](visual-and-gamified-learning.md) · [Contents](../study/contents.md)
 
-Choose the question that is giving you trouble. Finish one activity and explain the result before moving to the next. Durations below are suggested study budgets, not measured completion times.
+Use the [mission selector](mission-selector.md) for a shorter question-based route, or choose from the full list below. Finish one activity and explain the result before moving to the next. Durations below are suggested study budgets, not measured completion times.
 
 | Question | Mission | Budget | What to keep |
 |---|---|---|---|
@@ -53,6 +53,15 @@ Use [questions 18](../practice-tests/availability-and-access-18.md), [three card
 | Does less alert noise mean better detection? | [Alert comparison](../labs/36-alert-tradeoffs/README.md) | Detection and false-alert counts |
 
 The [rack security campaign](rack-security-campaign.md) joins these with earlier inventory, access, and recovery tasks. Try [questions 20](../practice-tests/rack-readiness-20.md) and [cards](../anki/rack-readiness.txt) after the activities.
+
+## Layers and exceptions
+
+| Question | Activity | What to explain |
+|---|---|---|
+| Does one passed check satisfy the whole request? | [Layered controls](../labs/37-layered-controls/README.md) | Network path, application decision, and logging |
+| Does approval remain valid after expiry? | [Exception review](../labs/38-exception-review/README.md) | Owner, status, time, and next decision |
+
+Use [questions 21](../practice-tests/layers-and-exceptions-21.md) and [three cards](../anki/layers-and-exceptions.txt) after the activity.
 
 ## Match the format to your setup
 
