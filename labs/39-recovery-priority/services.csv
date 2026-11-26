@@ -1,0 +1,4 @@
+service,business_priority,depends_on,restore_minutes
+identity,dependency,none,20
+orders,1,identity,30
+reports,2,identity,15
