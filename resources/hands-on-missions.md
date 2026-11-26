@@ -76,3 +76,7 @@ Already own a data center game? Use [these reflection prompts](steam-data-center
 [Visual tool cards](../anki/visual-tools.txt) and [operations cards](../anki/operations-missions.txt) contain three original notes each. [Import instructions](../anki/README.md) explain the format.
 
 Record completion only after trying the activity. A [learning note](../study/hands-on-notes.md) should say what happened and what remains untested. Objective connections are partial author-selected links, not evidence of full exam readiness.
+
+## Restore and hand off
+
+[Recovery scheduling](../labs/39-recovery-priority/README.md) asks what can be restored first. [Evidence handoff](../labs/40-evidence-handoff/README.md) asks what the next responder needs to know. Follow the [visual session](recovery-session.md) and try [questions 22](../practice-tests/recovery-and-handoff-22.md). Both exercises use supplied fictional conditions and work offline.
