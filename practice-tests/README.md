@@ -33,3 +33,7 @@ Give correct guesses the same review attention as errors. Write the requirement 
 The applied tasks are original offline exercises, not replicas of CompTIA's performance-based interface. No set here is a complete weighted mock exam.
 
 [Table of contents](../study/contents.md) · [Comparison reference](../study/quick-comparisons.md) · [Review plan](../study/review-plan.md)
+
+## Recovery and handoff 22
+
+[Four original questions](recovery-and-handoff-22.md) cover dependency order, sequential recovery time, and evidence limits. Answers are hidden within the set. Attempt the [session activities](../resources/recovery-session.md) first. This is a targeted drill, not a weighted mock exam.
