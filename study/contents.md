@@ -123,3 +123,10 @@ Sections use SY0-701 domain groupings for navigation. Topics can span domains; s
 - [Sources and textbook credit](../resources/README.md)
 
 Questions are original. Class/textbook review questions are not redistributed. Exercises remain ready to try until actual results are recorded.
+
+## Recovery and communication practice
+
+- [Recovery scheduling and dataset](../labs/39-recovery-priority/README.md)
+- [Evidence handoff](../labs/40-evidence-handoff/README.md)
+- [Visual session route](../resources/recovery-session.md)
+- [Four review questions](../practice-tests/recovery-and-handoff-22.md)
