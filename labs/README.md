@@ -50,3 +50,12 @@ Write down the requirement, your decision, and the evidence that supports it. Co
 The optional [PowerShell event sample](../concepts/powershell-log-review.md) is a separate local read-only exercise. No Windows execution result is claimed for the project owner.
 
 [Full contents](../study/contents.md) · [Practice sets](../practice-tests/README.md)
+
+## Recovery and communication additions
+
+| Exercise | Format | Skill |
+|---|---|---|
+| [39. Recovery priority](39-recovery-priority/README.md) | Offline CSV | Schedule dependencies and business priorities |
+| [40. Evidence handoff](40-evidence-handoff/README.md) | Offline records | Separate observed results from unsupported cause |
+
+Follow the [combined session](../resources/recovery-session.md), then try [questions 22](../practice-tests/recovery-and-handoff-22.md).
