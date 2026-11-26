@@ -69,3 +69,7 @@ Two cables do not automatically prove redundancy. They may still depend on one s
 The Waseku listing describes a visual experience without complex command lines. Do not buy it expecting a general Linux terminal. Use [Bandit](https://overthewire.org/wargames/bandit/) for a command-line challenge or [Packet Tracer](../labs/18-packet-tracer-visual/README.md) for a guided network observation.
 
 Keep a [short learning note](../study/hands-on-notes.md) showing what you actually tested and what the simulation could not establish.
+
+## Practice recovery decisions alongside gameplay
+
+Use the [restore and handoff session](recovery-session.md) to turn a supported failure or repair into a dependency sketch and a clear status note. When your game lacks these business-priority or incident-record features, use our [supplied schedule](../labs/39-recovery-priority/README.md) and [handoff records](../labs/40-evidence-handoff/README.md). These companion tasks do not claim additional features for either Steam title.
