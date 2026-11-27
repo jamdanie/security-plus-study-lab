@@ -80,3 +80,7 @@ Record completion only after trying the activity. A [learning note](../study/han
 ## Restore and hand off
 
 [Recovery scheduling](../labs/39-recovery-priority/README.md) asks what can be restored first. [Evidence handoff](../labs/40-evidence-handoff/README.md) asks what the next responder needs to know. Follow the [visual session](recovery-session.md) and try [questions 22](../practice-tests/recovery-and-handoff-22.md). Both exercises use supplied fictional conditions and work offline.
+
+## Maintenance and identity
+
+[Finding priority](../labs/41-maintenance-priority/README.md) asks what deserves attention first. [Offboarding review](../labs/42-offboarding-review/README.md) asks which access paths remain. Use the [combined session](maintenance-session.md) and [questions 23](../practice-tests/maintenance-and-offboarding-23.md). These activities work offline.
