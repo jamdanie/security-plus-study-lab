@@ -73,3 +73,7 @@ Keep a [short learning note](../study/hands-on-notes.md) showing what you actual
 ## Practice recovery decisions alongside gameplay
 
 Use the [restore and handoff session](recovery-session.md) to turn a supported failure or repair into a dependency sketch and a clear status note. When your game lacks these business-priority or incident-record features, use our [supplied schedule](../labs/39-recovery-priority/README.md) and [handoff records](../labs/40-evidence-handoff/README.md). These companion tasks do not claim additional features for either Steam title.
+
+## Practice a maintenance decision
+
+Use the [maintenance session](maintenance-session.md) alongside a supported repair task. The supplied [finding records](../labs/41-maintenance-priority/README.md) and [access review](../labs/42-offboarding-review/README.md) add policy decisions when the game lacks vulnerability or identity features. Treat these as offline companion exercises, not product capabilities.
