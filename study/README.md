@@ -75,6 +75,8 @@ Each guide links its related exercises or questions. Sources appear on the guide
 | [Permissions and data 19](../practice-tests/permissions-and-data-19.md) | 6 questions | Temporary grants, backup exposure, handling rules |
 | [Rack readiness 20](../practice-tests/rack-readiness-20.md) | 6 questions | Hardening, patch validation, and alert interpretation |
 | [Layers and exceptions 21](../practice-tests/layers-and-exceptions-21.md) | 6 questions | Control boundaries and approval conditions |
+| [Recovery and handoff 22](../practice-tests/recovery-and-handoff-22.md) | 4 questions | Dependencies, schedule, and evidence limits |
+| [Maintenance and offboarding 23](../practice-tests/maintenance-and-offboarding-23.md) | 4 questions | Priority evidence and remaining access |
 
 These sets are original, have uneven topic coverage, and do not follow full exam-domain proportions. Scores do not predict an official result.
 
