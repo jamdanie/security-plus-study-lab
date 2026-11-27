@@ -1,0 +1,4 @@
+finding,asset,severity_label,exploitation_evidence,exposure,business_role
+LAB-A,edge-service,high,confirmed-in-exercise,internet,customer-orders
+LAB-B,test-host,critical,none-supplied,isolated-lab,training
+LAB-C,internal-reports,medium,none-supplied,staff-zone,reporting
