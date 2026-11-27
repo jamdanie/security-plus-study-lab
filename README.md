@@ -29,7 +29,7 @@ Use the [question-based mission selector](resources/mission-selector.md) to choo
 
 Read the explanation, predict the worked example, and answer its hidden-answer check. Follow the section's exercise or question link. For an error or correct guess, explain why the nearest alternative does not meet the requirement.
 
-The [study index](study/README.md) now brings all twenty main guides and twenty-one practice sets into one place. Short pages add authentication factors, password storage, federation, certificate trust, data states, web attacks, mobile deployment, and local PowerShell event review.
+The [study index](study/README.md) now brings all twenty main guides and twenty-three practice sets into one place. Short pages add authentication factors, password storage, federation, certificate trust, data states, web attacks, mobile deployment, and local PowerShell event review.
 
 ## Asset tracking and disposal
 
@@ -50,6 +50,8 @@ The [focused session challenges](resources/game-session-challenges.md) add tempo
 Work through the [rack security mini campaign](resources/rack-security-campaign.md) for inventory, access, server hardening, patch verification, alert review, and recovery. [Questions 20](practice-tests/rack-readiness-20.md) and [cards](anki/rack-readiness.txt) connect the new missions to review.
 
 Try [layered controls](labs/37-layered-controls/README.md) and [exception review](labs/38-exception-review/README.md), then answer [questions 21](practice-tests/layers-and-exceptions-21.md). Both work offline with original supplied conditions.
+
+Follow the [recovery and handoff session](resources/recovery-session.md) or the [maintenance and access session](resources/maintenance-session.md) for newer offline scenarios and original review questions.
 
 ## Hands-on practice
 
