@@ -59,3 +59,12 @@ The optional [PowerShell event sample](../concepts/powershell-log-review.md) is 
 | [40. Evidence handoff](40-evidence-handoff/README.md) | Offline records | Separate observed results from unsupported cause |
 
 Follow the [combined session](../resources/recovery-session.md), then try [questions 22](../practice-tests/recovery-and-handoff-22.md).
+
+## Maintenance and identity additions
+
+| Exercise | Format | Skill |
+|---|---|---|
+| [41. Maintenance priority](41-maintenance-priority/README.md) | Offline CSV | Apply exposure and exploitation evidence to a stated priority rule |
+| [42. Offboarding review](42-offboarding-review/README.md) | Offline records | Trace independent access paths and service dependencies |
+
+[Combined session](../resources/maintenance-session.md) · [Questions 23](../practice-tests/maintenance-and-offboarding-23.md)
