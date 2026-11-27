@@ -130,3 +130,10 @@ Questions are original. Class/textbook review questions are not redistributed. E
 - [Evidence handoff](../labs/40-evidence-handoff/README.md)
 - [Visual session route](../resources/recovery-session.md)
 - [Four review questions](../practice-tests/recovery-and-handoff-22.md)
+
+## Maintenance and access review
+
+- [Finding priority and CSV](../labs/41-maintenance-priority/README.md)
+- [Offboarding access paths](../labs/42-offboarding-review/README.md)
+- [Visual study session](../resources/maintenance-session.md)
+- [Four review questions](../practice-tests/maintenance-and-offboarding-23.md)
