@@ -1,0 +1,5 @@
+item,scope,period,description
+E1,all-lab-hosts,current-policy,policy requires logging enabled
+E2,host-a,previous-month,screenshot shows logging enabled
+E3,host-b,current-review,configuration export shows logging disabled
+E4,all-lab-hosts,current-review,administrator says logging is enabled everywhere
