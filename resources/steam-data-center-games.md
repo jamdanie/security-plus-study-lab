@@ -77,3 +77,7 @@ Use the [restore and handoff session](recovery-session.md) to turn a supported f
 ## Practice a maintenance decision
 
 Use the [maintenance session](maintenance-session.md) alongside a supported repair task. The supplied [finding records](../labs/41-maintenance-priority/README.md) and [access review](../labs/42-offboarding-review/README.md) add policy decisions when the game lacks vulnerability or identity features. Treat these as offline companion exercises, not product capabilities.
+
+## Inspect a claim before automating a change
+
+Use the [evidence session](evidence-session.md) alongside a supported game setting or maintenance action. Our [control records](../labs/43-control-evidence/README.md) and [automation proposal](../labs/44-automation-review/README.md) supply offline conditions when the game lacks those features. A screenshot or game score does not prove current fleet-wide compliance.
