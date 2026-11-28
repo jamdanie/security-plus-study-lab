@@ -77,6 +77,7 @@ Each guide links its related exercises or questions. Sources appear on the guide
 | [Layers and exceptions 21](../practice-tests/layers-and-exceptions-21.md) | 6 questions | Control boundaries and approval conditions |
 | [Recovery and handoff 22](../practice-tests/recovery-and-handoff-22.md) | 4 questions | Dependencies, schedule, and evidence limits |
 | [Maintenance and offboarding 23](../practice-tests/maintenance-and-offboarding-23.md) | 4 questions | Priority evidence and remaining access |
+| [Evidence and automation 24](../practice-tests/evidence-and-automation-24.md) | 4 questions | Scope, period, automation checks, and partial results |
 
 These sets are original, have uneven topic coverage, and do not follow full exam-domain proportions. Scores do not predict an official result.
 
