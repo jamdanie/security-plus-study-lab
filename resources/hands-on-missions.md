@@ -84,3 +84,7 @@ Record completion only after trying the activity. A [learning note](../study/han
 ## Maintenance and identity
 
 [Finding priority](../labs/41-maintenance-priority/README.md) asks what deserves attention first. [Offboarding review](../labs/42-offboarding-review/README.md) asks which access paths remain. Use the [combined session](maintenance-session.md) and [questions 23](../practice-tests/maintenance-and-offboarding-23.md). These activities work offline.
+
+## Inspect and automate
+
+[Control evidence](../labs/43-control-evidence/README.md) asks what a record establishes. [Automation review](../labs/44-automation-review/README.md) asks when a job must stop and how to report partial completion. Follow the [visual session](evidence-session.md), then try [questions 24](../practice-tests/evidence-and-automation-24.md). Both work offline.
