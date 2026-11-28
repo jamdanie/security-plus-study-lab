@@ -137,3 +137,10 @@ Questions are original. Class/textbook review questions are not redistributed. E
 - [Offboarding access paths](../labs/42-offboarding-review/README.md)
 - [Visual study session](../resources/maintenance-session.md)
 - [Four review questions](../practice-tests/maintenance-and-offboarding-23.md)
+
+## Control assessment and automation
+
+- [Control evidence and CSV](../labs/43-control-evidence/README.md)
+- [Automation scope and failure review](../labs/44-automation-review/README.md)
+- [Visual session](../resources/evidence-session.md)
+- [Four review questions](../practice-tests/evidence-and-automation-24.md)
