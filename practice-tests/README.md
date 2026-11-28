@@ -41,3 +41,7 @@ The applied tasks are original offline exercises, not replicas of CompTIA's perf
 ## Maintenance and offboarding 23
 
 [Four original questions](maintenance-and-offboarding-23.md) cover priority evidence and independent access paths. Attempt the [session](../resources/maintenance-session.md) before opening the hidden key. This drill is not a weighted mock exam.
+
+## Evidence and automation 24
+
+[Four original questions](evidence-and-automation-24.md) cover evidence scope, time limits, automation targets, and partial completion. Attempt the [session activities](../resources/evidence-session.md) before opening the hidden key. This is a targeted drill, not a weighted mock exam.
