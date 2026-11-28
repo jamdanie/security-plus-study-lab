@@ -68,3 +68,12 @@ Follow the [combined session](../resources/recovery-session.md), then try [quest
 | [42. Offboarding review](42-offboarding-review/README.md) | Offline records | Trace independent access paths and service dependencies |
 
 [Combined session](../resources/maintenance-session.md) · [Questions 23](../practice-tests/maintenance-and-offboarding-23.md)
+
+## Assessment and automation additions
+
+| Exercise | Format | Skill |
+|---|---|---|
+| [43. Control evidence](43-control-evidence/README.md) | Offline CSV | Assess scope, period, and contradictory evidence |
+| [44. Automation review](44-automation-review/README.md) | Offline design | Validate scope and record partial failures |
+
+[Session route](../resources/evidence-session.md) · [Questions 24](../practice-tests/evidence-and-automation-24.md)
